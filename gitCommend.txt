@@ -1,0 +1,9 @@
+git init //initialize a reprository
+git status
+git add .
+git log --oneline
+git log
+
+
+git branch -a //current branch
+git checkout abc //new branch call abc
