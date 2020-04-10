@@ -4,9 +4,11 @@ git add .
 git log --oneline
 git log
 
+git commit -m "message" //commit request
 
 git branch -a //current branch
 git checkout abc //new branch call abc
 
 git push URL BRANCH_NAME //to push the code
 git remote add origin URL //to save to url
+git pull origin master //pull request to master
