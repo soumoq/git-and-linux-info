@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private Button check;
     private ProgressBar loding;
 
-//Changess
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
