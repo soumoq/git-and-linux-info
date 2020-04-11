@@ -2,11 +2,13 @@ git init //initialize a reprository
 git status
 git add .
 git log --oneline
+git log --all
 git log
 
 git commit -m "message" //commit request
 
 git branch -a //current branch
+git checkout comitID //remote branch
 git checkout abc //new branch call abc
 
 git push URL BRANCH_NAME //to push the code
