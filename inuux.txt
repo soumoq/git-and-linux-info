@@ -1,0 +1,3 @@
+cd /usr/lib/jvm/JDK-version //install jdk
+dpkg -i name.deb    //install debfile
+tar xzf tarfile.tr.gz  //extrect ter filr
