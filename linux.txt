@@ -1,3 +1,4 @@
 cd /usr/lib/jvm/JDK-version //install jdk
 dpkg -i name.deb    //install debfile
-tar xzf tarfile.tr.gz  //extrect ter filr
+tar xzf tarfile.tr.gz  //extrect ter file
+tar -xf packgeName.tar.xz //extrect ter.xf file
