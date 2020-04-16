@@ -4,4 +4,4 @@ tar xzf tarfile.tr.gz  //extrect ter file
 tar -xf packgeName.tar.xz //extrect ter.xf file
 sudo dpkg -i *20.03*.deb //install all deb file
 dpkg --list //findout all package
-apt-get --purge remove codeblocks //to uninstall packages
+apt-get --purge remove package_name //to uninstall packages
