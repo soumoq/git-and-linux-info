@@ -7,6 +7,8 @@ dpkg --list //findout all package
 apt-get --purge remove package_name //to uninstall packages
 
 ----- FIX snap -----
-sudo snap changes
-sudo snap remove app_name 
-sudo snap install app
+$ snap changes
+<snip>
+203  Doing   2016-06-24T12:17:45Z  -  Install "nextcloud" snap
+
+$ sudo snap abort 203 //203 is snap id
