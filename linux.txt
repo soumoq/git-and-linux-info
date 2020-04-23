@@ -5,6 +5,8 @@ tar -xf packgeName.tar.xz //extrect ter.xf file
 sudo dpkg -i *20.03*.deb //install all deb file
 dpkg --list //findout all package
 apt-get --purge remove package_name //to uninstall packages
+python3 ./pythonFile.ph // run python 3 file
+rm -r //remove derectory 
 
 ----- FIX snap -----
 $ snap changes
