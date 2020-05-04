@@ -14,3 +14,4 @@ git checkout abc //new branch call abc
 git push URL BRANCH_NAME //to push the code
 git remote add origin URL //to save to url
 git pull origin master //pull request to master
+rm -rf .git //remove git from project
