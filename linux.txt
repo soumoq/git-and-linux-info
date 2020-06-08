@@ -8,6 +8,10 @@ apt-get --purge remove package_name //to uninstall packages
 python3 ./pythonFile.ph // run python 3 file
 rm -r //remove derectory 
 
+/*Install .run file in terminal*/
+chmod +x some-app.run
+./some-app.run
+
 ----- FIX snap -----
 $ snap changes
 <snip>
