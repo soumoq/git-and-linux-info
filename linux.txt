@@ -7,6 +7,8 @@ dpkg --list //findout all package
 apt-get --purge remove package_name //to uninstall packages
 python3 ./pythonFile.ph // run python 3 file
 rm -r //remove derectory 
+scrcpy //phone screen into ubuntu
+
 
 /*Install .run file in terminal*/
 chmod +x some-app.run
