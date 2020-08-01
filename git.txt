@@ -15,3 +15,14 @@ git push URL BRANCH_NAME //to push the code
 git remote add origin URL //to save to url
 git pull origin master //pull request to master
 rm -rf .git //remove git from project
+
+//Udemy
+git reset HEAD README.md // reset add or Backing out changes
+git checkout -- README.md // Clean working directory
+git mv a.txt b.txt // Rename file using git
+git rm b.txt // Delete file
+vi .gitignote // after enter file name that is not part of your git 
+git diff //compare HEAD to resent changes
+git diff commitID HEAD //compare deferance two commit
+git branch //To see all branch
+git checkout -b updates //create a branch name updates
