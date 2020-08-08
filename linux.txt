@@ -20,3 +20,12 @@ $ snap changes
 203  Doing   2016-06-24T12:17:45Z  -  Install "nextcloud" snap
 
 $ sudo snap abort 203 //203 is snap id
+
+
+
+----- FIX key -----
+xev    // see keyboard input event and key code
+xmodmap -e 'keycode  63 = '  // desible keyboard
+xmodmap -e 'keycode  63 = Astrick' // enable keyboard
+
+keytweektool(for windows) //windows
