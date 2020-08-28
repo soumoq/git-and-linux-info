@@ -29,3 +29,6 @@ xmodmap -e 'keycode  63 = '  // desible keyboard
 xmodmap -e 'keycode  63 = Astrick' // enable keyboard
 
 keytweektool(for windows) //windows
+
+-----Zip filder and file-----
+find FOLDER_PATH -maxdepth 0 -type d -exec zip -r "{}" "{}" \;
