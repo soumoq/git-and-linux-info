@@ -1,0 +1,69 @@
+start - overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
+end   - overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
+
+
+
+ @Override
+    public long getItemId(int position) {
+        return position;
+    }
+
+    @Override
+    public int getItemViewType(int position) {
+        return position;
+    }
+
+
+
+    ₹
+
+     android:clickable="true"
+    android:background="?android:attr/selectableItemBackground"
+  
+
+
+
+
+
+
+      private void createOrder() {
+        String URL = "https://www.sourcehub.in/api/customer/order/create";
+        final RequestQueue requestQueue = Volley.newRequestQueue(CartItemActivity.this);
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, URL, new Response.Listener<String>() {
+            @Override
+            public void onResponse(String response) {
+                JSONObject json1 = null;
+                try {
+                    json1 = new JSONObject(response);
+                    final boolean success = json1.getBoolean("success");
+                    if (success) {
+                        toast(json1.getString("message"));
+                        Intent intent = new Intent(CartItemActivity.this, CompleteOrderActivity.class);
+                        startActivity(intent);
+
+                    } else {
+                        toast(json1.getString("message"));
+                    }
+                } catch (JSONException e) {
+                    toast("Some thing went wrong: " + e.getMessage());
+                }
+
+            }
+        }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                toast("Some thing went wrong: " + error.getMessage());
+            }
+        }) {
+            @Override
+            protected Map<String, String> getParams() throws AuthFailureError {
+                Map<String, String> params = new HashMap<String, String>();
+
+                params.put("customer_id", CInfo.getCustomerId());
+
+                return params;
+            }
+        };
+        requestQueue.getCache().clear();
+        requestQueue.add(stringRequest);
+    }
