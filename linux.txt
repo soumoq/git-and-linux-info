@@ -8,6 +8,7 @@ apt-get --purge remove package_name //to uninstall packages
 python3 ./pythonFile.ph // run python 3 file
 rm -r //remove derectory 
 scrcpy //phone screen into ubuntu
+watch -n 2 sensors //check cpu temp
 
 
 /*Install .run file in terminal*/
