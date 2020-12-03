@@ -1,8 +1,11 @@
 start - overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
 end   - overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
 
+ //pass recycler view to activity
+ ((OrderCategoryActivity) mInflater.getContext()).start();
 
 
+ //recycler view sinc
  @Override
     public long getItemId(int position) {
         return position;
@@ -16,16 +19,29 @@ end   - overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
 
 
     ₹
+    
+    //reload activity
+    finish();
+    startActivity(getIntent());
 
+
+    //clear privious activity
+    setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+
+     //click anim     
      android:clickable="true"
     android:background="?android:attr/selectableItemBackground"
+
+       android:background="?selectableItemBackgroundBorderless"
+                                    android:clickable="true"
+                                    android:focusable="true"
   
 
 
 
 
 
-
+      //volly
       private void createOrder() {
         String URL = "https://www.sourcehub.in/api/customer/order/create";
         final RequestQueue requestQueue = Volley.newRequestQueue(CartItemActivity.this);
