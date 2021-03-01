@@ -1,3 +1,6 @@
+
+//8A:01:9A:84:BF:D2:3F:07:00:38:89:82:D4:7A:EA:B9:73:BF:F8:9A
+
 start - overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
 end   - overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
 
@@ -28,13 +31,28 @@ end   - overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
     //clear privious activity
     setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
 
+
+
+    //open google map
+        try {
+            String geoUri = "http://maps.google.com/maps?q=loc:" + lat.get(position) + "," + lon.get(position) + " (" + "Address" + ")";
+            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(geoUri));
+            v.getContext().startActivity(intent);
+        } catch (Exception e) {
+            Toast.makeText(v.getContext(), e.getMessage(), Toast.LENGTH_LONG).show();
+        }
+
+
+
+
+
      //click anim     
      android:clickable="true"
     android:background="?android:attr/selectableItemBackground"
 
-       android:background="?selectableItemBackgroundBorderless"
-                                    android:clickable="true"
-                                    android:focusable="true"
+    android:background="?selectableItemBackgroundBorderless"
+                                android:clickable="true"
+                                android:focusable="true"
   
 
 
@@ -83,3 +101,89 @@ end   - overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
         requestQueue.getCache().clear();
         requestQueue.add(stringRequest);
     }
+
+
+
+//glide
+Glide.with(holder.product_image.getContext())
+                .load(productImage.get(position))
+                .listener(new RequestListener<Drawable>() {
+                    @Override
+                    public boolean onLoadFailed(@Nullable GlideException e, Object model, Target<Drawable> target, boolean isFirstResource) {
+                        holder.imageProgress.setVisibility(View.GONE);
+                        return false;
+                    }
+
+                    @Override
+                    public boolean onResourceReady(Drawable resource, Object model, Target<Drawable> target, DataSource dataSource, boolean isFirstResource) {
+                        holder.imageProgress.setVisibility(View.GONE);
+                        return false;
+                    }
+                })
+                .error(R.drawable.ic_outline_casino_24)
+                .into(holder.product_image);
+
+
+
+
+// ripple effect
+
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/pink">
+
+    <item android:id="@android:id/background">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+            <stroke
+                android:width="1dip"
+                android:color="@color/pink" />
+            <corners android:radius="0dp" />
+            <solid
+                android:angle="100"
+                android:color="#ffffff" />
+        </shape>
+    </item>
+</ripple>
+
+
+
+// create dialog
+public class NewPostDialog extends AppCompatDialogFragment {
+
+
+
+
+    @RequiresApi(api = Build.VERSION_CODES.N)
+    @NonNull
+    @Override
+    public Dialog onCreateDialog(@Nullable Bundle savedInstanceState) {
+        //AlertDialog.Builder builder = new AlertDialog.Builder(getActivity(),R.style.CustomDialog);
+        final Dialog builder = new Dialog(getActivity());
+        LayoutInflater inflater = getActivity().getLayoutInflater();
+        View view = inflater.inflate(R.layout.dialog_new_post, null);
+        init(view);
+
+
+
+
+
+
+        builder.setContentView(view);
+        builder.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
+        return builder;
+    }
+
+    private void init(View view){
+
+    }
+
+
+}
+
+
+
+//progress ber
+private MyProgressDialog_white progressDialog;
+progressDialog = new MyProgressDialog_white(this);
+progressDialog.setCancelable(false);
