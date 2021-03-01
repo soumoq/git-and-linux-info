@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "data": {
+        "id": 15,
+        "first_name": "Testing",
+        "last_name": "Demo",
+        "mobile": "1478541204",
+        "otp": 188431,
+        "email": null,
+        "customer_code": "1602330896",
+        "status": "Active",
+        "salesagent_id": null,
+        "is_deleted": "No",
+        "created_at": "2020-10-10T11:54:56.000000Z",
+        "updated_at": "2020-10-12T10:12:47.000000Z",
+        "deleted_at": null
+    },
+    "msg": "OTP has been sent to your mobile number",
+    "user_type": "old"
+}

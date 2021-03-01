@@ -1,0 +1,3445 @@
+{
+    "success": true,
+    "data": [
+        {
+            "_id": "5fcdf406a208394d52e5fda6",
+            "name": "24 Parganas (n)",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.548Z",
+            "created_at": "2020-12-07T09:21:10.548Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fda7",
+            "name": "24 Parganas (s)",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.549Z",
+            "created_at": "2020-12-07T09:21:10.549Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fda8",
+            "name": "Adra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.549Z",
+            "created_at": "2020-12-07T09:21:10.549Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdaa",
+            "name": "Aiho",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.551Z",
+            "created_at": "2020-12-07T09:21:10.551Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdab",
+            "name": "Aistala",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.552Z",
+            "created_at": "2020-12-07T09:21:10.552Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdac",
+            "name": "Alipur Duar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.554Z",
+            "created_at": "2020-12-07T09:21:10.554Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fda9",
+            "name": "Ahmadpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.550Z",
+            "created_at": "2020-12-07T09:21:10.550Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdad",
+            "name": "Alipur Duar Railway Junction",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.555Z",
+            "created_at": "2020-12-07T09:21:10.555Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdae",
+            "name": "Alpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.555Z",
+            "created_at": "2020-12-07T09:21:10.555Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdaf",
+            "name": "Amalhara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.556Z",
+            "created_at": "2020-12-07T09:21:10.556Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdb0",
+            "name": "Amkula",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.559Z",
+            "created_at": "2020-12-07T09:21:10.559Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdb1",
+            "name": "Amlagora",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.560Z",
+            "created_at": "2020-12-07T09:21:10.560Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdb2",
+            "name": "Amodghata",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.561Z",
+            "created_at": "2020-12-07T09:21:10.561Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdb3",
+            "name": "Amtala",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.562Z",
+            "created_at": "2020-12-07T09:21:10.562Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdb4",
+            "name": "Andul",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.562Z",
+            "created_at": "2020-12-07T09:21:10.562Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdb6",
+            "name": "Ankurhati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.564Z",
+            "created_at": "2020-12-07T09:21:10.564Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdb5",
+            "name": "Anksa",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.563Z",
+            "created_at": "2020-12-07T09:21:10.563Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdb7",
+            "name": "Anup Nagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.565Z",
+            "created_at": "2020-12-07T09:21:10.565Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdb8",
+            "name": "Arambagh",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.565Z",
+            "created_at": "2020-12-07T09:21:10.565Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdb9",
+            "name": "Argari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.566Z",
+            "created_at": "2020-12-07T09:21:10.566Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdba",
+            "name": "Arsha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.570Z",
+            "created_at": "2020-12-07T09:21:10.570Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdbb",
+            "name": "Asansol",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.570Z",
+            "created_at": "2020-12-07T09:21:10.570Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdbc",
+            "name": "Ashoknagar Kalyangarh",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.571Z",
+            "created_at": "2020-12-07T09:21:10.571Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdbd",
+            "name": "Aurangabad",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.573Z",
+            "created_at": "2020-12-07T09:21:10.573Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdbe",
+            "name": "Bablari Dewanganj",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.575Z",
+            "created_at": "2020-12-07T09:21:10.575Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdbf",
+            "name": "Badhagachhi",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.575Z",
+            "created_at": "2020-12-07T09:21:10.575Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdc0",
+            "name": "Baduria",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.576Z",
+            "created_at": "2020-12-07T09:21:10.576Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdc1",
+            "name": "Baghdogra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.576Z",
+            "created_at": "2020-12-07T09:21:10.576Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdc2",
+            "name": "Bagnan",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.577Z",
+            "created_at": "2020-12-07T09:21:10.577Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdc3",
+            "name": "Bagra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.577Z",
+            "created_at": "2020-12-07T09:21:10.577Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdc4",
+            "name": "Bagula",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.580Z",
+            "created_at": "2020-12-07T09:21:10.580Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdc5",
+            "name": "Baharampur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.581Z",
+            "created_at": "2020-12-07T09:21:10.581Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdc6",
+            "name": "Bahirgram",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.581Z",
+            "created_at": "2020-12-07T09:21:10.581Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdc7",
+            "name": "Bahula",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.582Z",
+            "created_at": "2020-12-07T09:21:10.582Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdc8",
+            "name": "Baidyabati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.582Z",
+            "created_at": "2020-12-07T09:21:10.582Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdca",
+            "name": "Baj Baj",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.583Z",
+            "created_at": "2020-12-07T09:21:10.583Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdc9",
+            "name": "Bairatisal",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.583Z",
+            "created_at": "2020-12-07T09:21:10.583Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdcb",
+            "name": "Bakreswar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.584Z",
+            "created_at": "2020-12-07T09:21:10.584Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdcc",
+            "name": "Balaram Pota",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.584Z",
+            "created_at": "2020-12-07T09:21:10.584Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdcd",
+            "name": "Balarampur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.585Z",
+            "created_at": "2020-12-07T09:21:10.585Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdce",
+            "name": "Bali Chak",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.592Z",
+            "created_at": "2020-12-07T09:21:10.592Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdcf",
+            "name": "Ballavpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.593Z",
+            "created_at": "2020-12-07T09:21:10.593Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdd0",
+            "name": "Bally",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.593Z",
+            "created_at": "2020-12-07T09:21:10.593Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdd1",
+            "name": "Balurghat",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.594Z",
+            "created_at": "2020-12-07T09:21:10.594Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdd2",
+            "name": "Bamunari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.594Z",
+            "created_at": "2020-12-07T09:21:10.594Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdd3",
+            "name": "Banarhat Tea Garden",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.595Z",
+            "created_at": "2020-12-07T09:21:10.595Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdd4",
+            "name": "Bandel",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.595Z",
+            "created_at": "2020-12-07T09:21:10.595Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdd5",
+            "name": "Bangaon",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.596Z",
+            "created_at": "2020-12-07T09:21:10.596Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdd6",
+            "name": "Bankra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.596Z",
+            "created_at": "2020-12-07T09:21:10.596Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdd7",
+            "name": "Bankura",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.597Z",
+            "created_at": "2020-12-07T09:21:10.597Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdd8",
+            "name": "Bansbaria",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.600Z",
+            "created_at": "2020-12-07T09:21:10.600Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdd9",
+            "name": "Banshra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.601Z",
+            "created_at": "2020-12-07T09:21:10.601Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdda",
+            "name": "Banupur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.601Z",
+            "created_at": "2020-12-07T09:21:10.601Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fddb",
+            "name": "Bara Bamonia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.602Z",
+            "created_at": "2020-12-07T09:21:10.602Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fddc",
+            "name": "Barakpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.602Z",
+            "created_at": "2020-12-07T09:21:10.602Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fddd",
+            "name": "Barakpur Cantonment",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.603Z",
+            "created_at": "2020-12-07T09:21:10.603Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdde",
+            "name": "Baranagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.603Z",
+            "created_at": "2020-12-07T09:21:10.603Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fddf",
+            "name": "Barasat",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.604Z",
+            "created_at": "2020-12-07T09:21:10.604Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fde0",
+            "name": "Barddhaman",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.604Z",
+            "created_at": "2020-12-07T09:21:10.604Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fde1",
+            "name": "Barijhati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.605Z",
+            "created_at": "2020-12-07T09:21:10.605Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fde2",
+            "name": "Barjora",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.607Z",
+            "created_at": "2020-12-07T09:21:10.607Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fde3",
+            "name": "Barrackpore",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.608Z",
+            "created_at": "2020-12-07T09:21:10.608Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fde4",
+            "name": "Baruihuda",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.608Z",
+            "created_at": "2020-12-07T09:21:10.608Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fde5",
+            "name": "Baruipur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.609Z",
+            "created_at": "2020-12-07T09:21:10.609Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fde6",
+            "name": "Barunda",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.609Z",
+            "created_at": "2020-12-07T09:21:10.609Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fde7",
+            "name": "Basirhat",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.610Z",
+            "created_at": "2020-12-07T09:21:10.610Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fde8",
+            "name": "Baska",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.610Z",
+            "created_at": "2020-12-07T09:21:10.610Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fde9",
+            "name": "Begampur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.611Z",
+            "created_at": "2020-12-07T09:21:10.611Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdea",
+            "name": "Beldanga",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.611Z",
+            "created_at": "2020-12-07T09:21:10.611Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdeb",
+            "name": "Beldubi",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.612Z",
+            "created_at": "2020-12-07T09:21:10.612Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdec",
+            "name": "Belebathan",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.615Z",
+            "created_at": "2020-12-07T09:21:10.615Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fded",
+            "name": "Beliator",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.615Z",
+            "created_at": "2020-12-07T09:21:10.615Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdef",
+            "name": "Bhandardaha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.616Z",
+            "created_at": "2020-12-07T09:21:10.616Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdf1",
+            "name": "Bhangri Pratham Khanda",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.617Z",
+            "created_at": "2020-12-07T09:21:10.617Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdee",
+            "name": "Bhadreswar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.616Z",
+            "created_at": "2020-12-07T09:21:10.616Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdf0",
+            "name": "Bhangar Raghunathpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.617Z",
+            "created_at": "2020-12-07T09:21:10.617Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdf2",
+            "name": "Bhanowara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.618Z",
+            "created_at": "2020-12-07T09:21:10.618Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdf3",
+            "name": "Bhatpara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.618Z",
+            "created_at": "2020-12-07T09:21:10.618Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdf4",
+            "name": "Bholar Dabri",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.619Z",
+            "created_at": "2020-12-07T09:21:10.619Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdf5",
+            "name": "Bidhannagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.619Z",
+            "created_at": "2020-12-07T09:21:10.619Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdf6",
+            "name": "Bidyadharpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.622Z",
+            "created_at": "2020-12-07T09:21:10.622Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdf7",
+            "name": "Biki Hakola",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.622Z",
+            "created_at": "2020-12-07T09:21:10.622Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdf8",
+            "name": "Bilandapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.623Z",
+            "created_at": "2020-12-07T09:21:10.623Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdf9",
+            "name": "Bilpahari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.623Z",
+            "created_at": "2020-12-07T09:21:10.623Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdfa",
+            "name": "Bipra Noapara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.624Z",
+            "created_at": "2020-12-07T09:21:10.624Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdfb",
+            "name": "Birlapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.624Z",
+            "created_at": "2020-12-07T09:21:10.624Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdfc",
+            "name": "Birnagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.625Z",
+            "created_at": "2020-12-07T09:21:10.625Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdfd",
+            "name": "Bisarpara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.626Z",
+            "created_at": "2020-12-07T09:21:10.626Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdfe",
+            "name": "Bishnupur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.626Z",
+            "created_at": "2020-12-07T09:21:10.626Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fdff",
+            "name": "Bolpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.627Z",
+            "created_at": "2020-12-07T09:21:10.627Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe00",
+            "name": "Bongaon",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.629Z",
+            "created_at": "2020-12-07T09:21:10.629Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe01",
+            "name": "Bowali",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.630Z",
+            "created_at": "2020-12-07T09:21:10.630Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe02",
+            "name": "Burdwan",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.630Z",
+            "created_at": "2020-12-07T09:21:10.630Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe03",
+            "name": "Canning",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.631Z",
+            "created_at": "2020-12-07T09:21:10.631Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe04",
+            "name": "Cart Road",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.631Z",
+            "created_at": "2020-12-07T09:21:10.631Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe05",
+            "name": "Chachanda",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.632Z",
+            "created_at": "2020-12-07T09:21:10.632Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe06",
+            "name": "Chak Bankola",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.632Z",
+            "created_at": "2020-12-07T09:21:10.632Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe07",
+            "name": "Chak Enayetnagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.633Z",
+            "created_at": "2020-12-07T09:21:10.633Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe08",
+            "name": "Chak Kashipur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.634Z",
+            "created_at": "2020-12-07T09:21:10.634Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe09",
+            "name": "Chakalampur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.634Z",
+            "created_at": "2020-12-07T09:21:10.634Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe0a",
+            "name": "Chakbansberia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.637Z",
+            "created_at": "2020-12-07T09:21:10.637Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe0b",
+            "name": "Chakdaha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.637Z",
+            "created_at": "2020-12-07T09:21:10.637Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe0c",
+            "name": "Chakpara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.638Z",
+            "created_at": "2020-12-07T09:21:10.638Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe0d",
+            "name": "Champahati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.639Z",
+            "created_at": "2020-12-07T09:21:10.639Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe0e",
+            "name": "Champdani",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.639Z",
+            "created_at": "2020-12-07T09:21:10.639Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe0f",
+            "name": "Chamrail",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.640Z",
+            "created_at": "2020-12-07T09:21:10.640Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe10",
+            "name": "Chandannagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.640Z",
+            "created_at": "2020-12-07T09:21:10.640Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe11",
+            "name": "Chandpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.641Z",
+            "created_at": "2020-12-07T09:21:10.641Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe12",
+            "name": "Chandrakona",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.641Z",
+            "created_at": "2020-12-07T09:21:10.641Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe13",
+            "name": "Chapari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.642Z",
+            "created_at": "2020-12-07T09:21:10.642Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe14",
+            "name": "Chapui",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.646Z",
+            "created_at": "2020-12-07T09:21:10.646Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe15",
+            "name": "Char Brahmanagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.647Z",
+            "created_at": "2020-12-07T09:21:10.647Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe16",
+            "name": "Char Maijdia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.647Z",
+            "created_at": "2020-12-07T09:21:10.647Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe17",
+            "name": "Charka",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.648Z",
+            "created_at": "2020-12-07T09:21:10.648Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe18",
+            "name": "Chata Kalikapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.648Z",
+            "created_at": "2020-12-07T09:21:10.648Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe19",
+            "name": "Chauhati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.649Z",
+            "created_at": "2020-12-07T09:21:10.649Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe1a",
+            "name": "Checha Khata",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.657Z",
+            "created_at": "2020-12-07T09:21:10.657Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe1b",
+            "name": "Chelad",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.658Z",
+            "created_at": "2020-12-07T09:21:10.658Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe1c",
+            "name": "Chhora",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.658Z",
+            "created_at": "2020-12-07T09:21:10.658Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe1d",
+            "name": "Chikrand",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.659Z",
+            "created_at": "2020-12-07T09:21:10.659Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe1e",
+            "name": "Chittaranjan",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.661Z",
+            "created_at": "2020-12-07T09:21:10.661Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe1f",
+            "name": "Contai",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.662Z",
+            "created_at": "2020-12-07T09:21:10.662Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe20",
+            "name": "Cooch Behar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.662Z",
+            "created_at": "2020-12-07T09:21:10.662Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe21",
+            "name": "Dainhat",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.663Z",
+            "created_at": "2020-12-07T09:21:10.663Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe22",
+            "name": "Dakshin Baguan",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.664Z",
+            "created_at": "2020-12-07T09:21:10.664Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe23",
+            "name": "Dakshin Jhapardaha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.664Z",
+            "created_at": "2020-12-07T09:21:10.664Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe24",
+            "name": "Dakshin Rajyadharpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.665Z",
+            "created_at": "2020-12-07T09:21:10.665Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe25",
+            "name": "Dakshin Raypur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.665Z",
+            "created_at": "2020-12-07T09:21:10.665Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe26",
+            "name": "Dalkola",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.666Z",
+            "created_at": "2020-12-07T09:21:10.666Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe27",
+            "name": "Dalurband",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.666Z",
+            "created_at": "2020-12-07T09:21:10.666Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe28",
+            "name": "Darap Pur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.669Z",
+            "created_at": "2020-12-07T09:21:10.669Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe29",
+            "name": "Darjiling",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.670Z",
+            "created_at": "2020-12-07T09:21:10.670Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe2a",
+            "name": "Daulatpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.670Z",
+            "created_at": "2020-12-07T09:21:10.670Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe2b",
+            "name": "Debipur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.671Z",
+            "created_at": "2020-12-07T09:21:10.671Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe2c",
+            "name": "Defahat",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.671Z",
+            "created_at": "2020-12-07T09:21:10.671Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe2d",
+            "name": "Deora",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.672Z",
+            "created_at": "2020-12-07T09:21:10.672Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe2e",
+            "name": "Deulia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.672Z",
+            "created_at": "2020-12-07T09:21:10.672Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe2f",
+            "name": "Dhakuria",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.673Z",
+            "created_at": "2020-12-07T09:21:10.673Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe30",
+            "name": "Dhandadihi",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.673Z",
+            "created_at": "2020-12-07T09:21:10.673Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe31",
+            "name": "Dhanyakuria",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.674Z",
+            "created_at": "2020-12-07T09:21:10.674Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe32",
+            "name": "Dharmapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.676Z",
+            "created_at": "2020-12-07T09:21:10.676Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe33",
+            "name": "Dhatri Gram",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.677Z",
+            "created_at": "2020-12-07T09:21:10.677Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe34",
+            "name": "Dhuilya",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.678Z",
+            "created_at": "2020-12-07T09:21:10.678Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe35",
+            "name": "Dhulagari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.678Z",
+            "created_at": "2020-12-07T09:21:10.678Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe36",
+            "name": "Dhulian",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.679Z",
+            "created_at": "2020-12-07T09:21:10.679Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe37",
+            "name": "Dhupgari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.679Z",
+            "created_at": "2020-12-07T09:21:10.679Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe38",
+            "name": "Dhusaripara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.680Z",
+            "created_at": "2020-12-07T09:21:10.680Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe39",
+            "name": "Diamond Harbour",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.680Z",
+            "created_at": "2020-12-07T09:21:10.680Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe3a",
+            "name": "Digha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.681Z",
+            "created_at": "2020-12-07T09:21:10.681Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe3b",
+            "name": "Dignala",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.681Z",
+            "created_at": "2020-12-07T09:21:10.681Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe3c",
+            "name": "Dinhata",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.684Z",
+            "created_at": "2020-12-07T09:21:10.684Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe3d",
+            "name": "Dubrajpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.685Z",
+            "created_at": "2020-12-07T09:21:10.685Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe3e",
+            "name": "Dumjor",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.685Z",
+            "created_at": "2020-12-07T09:21:10.685Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe3f",
+            "name": "Durgapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.686Z",
+            "created_at": "2020-12-07T09:21:10.686Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe40",
+            "name": "Durllabhganj",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.686Z",
+            "created_at": "2020-12-07T09:21:10.686Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe41",
+            "name": "Egra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.687Z",
+            "created_at": "2020-12-07T09:21:10.687Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe42",
+            "name": "Eksara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.687Z",
+            "created_at": "2020-12-07T09:21:10.687Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe43",
+            "name": "Falakata",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.688Z",
+            "created_at": "2020-12-07T09:21:10.688Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe44",
+            "name": "Farakka",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.689Z",
+            "created_at": "2020-12-07T09:21:10.689Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe45",
+            "name": "Fatellapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.689Z",
+            "created_at": "2020-12-07T09:21:10.689Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe46",
+            "name": "Fort Gloster",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.692Z",
+            "created_at": "2020-12-07T09:21:10.692Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe47",
+            "name": "Gabberia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.692Z",
+            "created_at": "2020-12-07T09:21:10.692Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe48",
+            "name": "Gadigachha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.693Z",
+            "created_at": "2020-12-07T09:21:10.693Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe49",
+            "name": "Gairkata",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.693Z",
+            "created_at": "2020-12-07T09:21:10.693Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe4a",
+            "name": "Gangarampur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.694Z",
+            "created_at": "2020-12-07T09:21:10.694Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe4b",
+            "name": "Garalgachha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.694Z",
+            "created_at": "2020-12-07T09:21:10.694Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe4c",
+            "name": "Garbeta Amlagora",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.695Z",
+            "created_at": "2020-12-07T09:21:10.695Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe4d",
+            "name": "Garhbeta",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.695Z",
+            "created_at": "2020-12-07T09:21:10.695Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe4e",
+            "name": "Garshyamnagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.696Z",
+            "created_at": "2020-12-07T09:21:10.696Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe4f",
+            "name": "Garui",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.696Z",
+            "created_at": "2020-12-07T09:21:10.696Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe50",
+            "name": "Garulia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.700Z",
+            "created_at": "2020-12-07T09:21:10.700Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe51",
+            "name": "Gayespur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.701Z",
+            "created_at": "2020-12-07T09:21:10.701Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe52",
+            "name": "Ghatal",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.702Z",
+            "created_at": "2020-12-07T09:21:10.702Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe53",
+            "name": "Ghorsala",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.703Z",
+            "created_at": "2020-12-07T09:21:10.703Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe54",
+            "name": "Goaljan",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.704Z",
+            "created_at": "2020-12-07T09:21:10.704Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe55",
+            "name": "Goasafat",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.705Z",
+            "created_at": "2020-12-07T09:21:10.705Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe56",
+            "name": "Gobardanga",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.706Z",
+            "created_at": "2020-12-07T09:21:10.706Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe57",
+            "name": "Gobindapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.706Z",
+            "created_at": "2020-12-07T09:21:10.706Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe58",
+            "name": "Gopalpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.707Z",
+            "created_at": "2020-12-07T09:21:10.707Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe59",
+            "name": "Gopinathpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.708Z",
+            "created_at": "2020-12-07T09:21:10.708Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe5a",
+            "name": "Gora Bazar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.712Z",
+            "created_at": "2020-12-07T09:21:10.712Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe5b",
+            "name": "Guma",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.713Z",
+            "created_at": "2020-12-07T09:21:10.713Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe5c",
+            "name": "Gurdaha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.713Z",
+            "created_at": "2020-12-07T09:21:10.713Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe5d",
+            "name": "Guriahati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.714Z",
+            "created_at": "2020-12-07T09:21:10.714Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe5e",
+            "name": "Guskhara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.715Z",
+            "created_at": "2020-12-07T09:21:10.715Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe5f",
+            "name": "Habra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.716Z",
+            "created_at": "2020-12-07T09:21:10.716Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe60",
+            "name": "Haldia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.717Z",
+            "created_at": "2020-12-07T09:21:10.717Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe61",
+            "name": "Haldibari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.718Z",
+            "created_at": "2020-12-07T09:21:10.718Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe62",
+            "name": "Halisahar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.719Z",
+            "created_at": "2020-12-07T09:21:10.719Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe63",
+            "name": "Haora",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.723Z",
+            "created_at": "2020-12-07T09:21:10.723Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe64",
+            "name": "Harharia Chak",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.734Z",
+            "created_at": "2020-12-07T09:21:10.734Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe65",
+            "name": "Harindanga",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.735Z",
+            "created_at": "2020-12-07T09:21:10.735Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe66",
+            "name": "Haringhata",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.736Z",
+            "created_at": "2020-12-07T09:21:10.736Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe67",
+            "name": "Haripur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.737Z",
+            "created_at": "2020-12-07T09:21:10.737Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe68",
+            "name": "Harishpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.738Z",
+            "created_at": "2020-12-07T09:21:10.738Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe69",
+            "name": "Hatgachha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.739Z",
+            "created_at": "2020-12-07T09:21:10.739Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe6a",
+            "name": "Hatsimla",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.740Z",
+            "created_at": "2020-12-07T09:21:10.740Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe6b",
+            "name": "Hijuli",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.740Z",
+            "created_at": "2020-12-07T09:21:10.740Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe6c",
+            "name": "Hindustan Cables Town",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.741Z",
+            "created_at": "2020-12-07T09:21:10.741Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe6d",
+            "name": "Hooghly",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.742Z",
+            "created_at": "2020-12-07T09:21:10.742Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe6e",
+            "name": "Howrah",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.747Z",
+            "created_at": "2020-12-07T09:21:10.747Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe6f",
+            "name": "Hugli-Chunchura",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.747Z",
+            "created_at": "2020-12-07T09:21:10.747Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe70",
+            "name": "Humaipur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.748Z",
+            "created_at": "2020-12-07T09:21:10.748Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe71",
+            "name": "Ichha Pur Defence Estate",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.749Z",
+            "created_at": "2020-12-07T09:21:10.749Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe72",
+            "name": "Ingraj Bazar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.750Z",
+            "created_at": "2020-12-07T09:21:10.750Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe73",
+            "name": "Islampur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.751Z",
+            "created_at": "2020-12-07T09:21:10.751Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe74",
+            "name": "Jafarpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.752Z",
+            "created_at": "2020-12-07T09:21:10.752Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe75",
+            "name": "Jagadanandapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.753Z",
+            "created_at": "2020-12-07T09:21:10.753Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe76",
+            "name": "Jagdishpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.754Z",
+            "created_at": "2020-12-07T09:21:10.754Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe77",
+            "name": "Jagtaj",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.754Z",
+            "created_at": "2020-12-07T09:21:10.754Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe78",
+            "name": "Jala Kendua",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.759Z",
+            "created_at": "2020-12-07T09:21:10.759Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe79",
+            "name": "Jaldhaka",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.760Z",
+            "created_at": "2020-12-07T09:21:10.760Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe7a",
+            "name": "Jalkhura",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.760Z",
+            "created_at": "2020-12-07T09:21:10.760Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe7b",
+            "name": "Jalpaiguri",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.761Z",
+            "created_at": "2020-12-07T09:21:10.761Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe7c",
+            "name": "Jamuria",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.762Z",
+            "created_at": "2020-12-07T09:21:10.762Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe7d",
+            "name": "Jangipur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.762Z",
+            "created_at": "2020-12-07T09:21:10.762Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe7e",
+            "name": "Jaygaon",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.763Z",
+            "created_at": "2020-12-07T09:21:10.763Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe7f",
+            "name": "Jaynagar-Majilpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.763Z",
+            "created_at": "2020-12-07T09:21:10.763Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe80",
+            "name": "Jemari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.764Z",
+            "created_at": "2020-12-07T09:21:10.764Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe81",
+            "name": "Jemari Township",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.764Z",
+            "created_at": "2020-12-07T09:21:10.764Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe82",
+            "name": "Jetia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.768Z",
+            "created_at": "2020-12-07T09:21:10.768Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe83",
+            "name": "Jhalida",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.768Z",
+            "created_at": "2020-12-07T09:21:10.768Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe84",
+            "name": "Jhargram",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.769Z",
+            "created_at": "2020-12-07T09:21:10.769Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe85",
+            "name": "Jhorhat",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.769Z",
+            "created_at": "2020-12-07T09:21:10.769Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe86",
+            "name": "Jiaganj-Azimganj",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.770Z",
+            "created_at": "2020-12-07T09:21:10.770Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe87",
+            "name": "Joka",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.770Z",
+            "created_at": "2020-12-07T09:21:10.770Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe88",
+            "name": "Jot Kamal",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.771Z",
+            "created_at": "2020-12-07T09:21:10.771Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe89",
+            "name": "Kachu Pukur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.771Z",
+            "created_at": "2020-12-07T09:21:10.771Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe8a",
+            "name": "Kajora",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.772Z",
+            "created_at": "2020-12-07T09:21:10.772Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe8b",
+            "name": "Kakdihi",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.772Z",
+            "created_at": "2020-12-07T09:21:10.772Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe8c",
+            "name": "Kakdwip",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.775Z",
+            "created_at": "2020-12-07T09:21:10.775Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe8d",
+            "name": "Kalaikunda",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.776Z",
+            "created_at": "2020-12-07T09:21:10.776Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe8e",
+            "name": "Kalara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.776Z",
+            "created_at": "2020-12-07T09:21:10.776Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe8f",
+            "name": "Kalimpong",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.777Z",
+            "created_at": "2020-12-07T09:21:10.777Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe90",
+            "name": "Kaliyaganj",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.777Z",
+            "created_at": "2020-12-07T09:21:10.777Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe91",
+            "name": "Kalna",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.778Z",
+            "created_at": "2020-12-07T09:21:10.778Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe92",
+            "name": "Kalyani",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.778Z",
+            "created_at": "2020-12-07T09:21:10.778Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe93",
+            "name": "Kamarhati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.779Z",
+            "created_at": "2020-12-07T09:21:10.779Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe94",
+            "name": "Kanaipur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.779Z",
+            "created_at": "2020-12-07T09:21:10.779Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe95",
+            "name": "Kanchrapara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.780Z",
+            "created_at": "2020-12-07T09:21:10.780Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe96",
+            "name": "Kandi",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.782Z",
+            "created_at": "2020-12-07T09:21:10.782Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe97",
+            "name": "Kanki",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.783Z",
+            "created_at": "2020-12-07T09:21:10.783Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe98",
+            "name": "Kankuria",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.783Z",
+            "created_at": "2020-12-07T09:21:10.783Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe99",
+            "name": "Kantlia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.784Z",
+            "created_at": "2020-12-07T09:21:10.784Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe9a",
+            "name": "Kanyanagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.784Z",
+            "created_at": "2020-12-07T09:21:10.784Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe9b",
+            "name": "Karimpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.785Z",
+            "created_at": "2020-12-07T09:21:10.785Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe9c",
+            "name": "Karsiyang",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.785Z",
+            "created_at": "2020-12-07T09:21:10.785Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe9d",
+            "name": "Kasba",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.786Z",
+            "created_at": "2020-12-07T09:21:10.786Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe9e",
+            "name": "Kasimbazar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.786Z",
+            "created_at": "2020-12-07T09:21:10.786Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fe9f",
+            "name": "Katwa",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.787Z",
+            "created_at": "2020-12-07T09:21:10.787Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fea0",
+            "name": "Kaugachhi",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.789Z",
+            "created_at": "2020-12-07T09:21:10.789Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fea1",
+            "name": "Kenda",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.790Z",
+            "created_at": "2020-12-07T09:21:10.790Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fea2",
+            "name": "Kendra Khottamdi",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.792Z",
+            "created_at": "2020-12-07T09:21:10.792Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fea3",
+            "name": "Kendua",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.793Z",
+            "created_at": "2020-12-07T09:21:10.793Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fea4",
+            "name": "Kesabpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.794Z",
+            "created_at": "2020-12-07T09:21:10.794Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fea5",
+            "name": "Khagrabari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.794Z",
+            "created_at": "2020-12-07T09:21:10.794Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fea6",
+            "name": "Khalia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.795Z",
+            "created_at": "2020-12-07T09:21:10.795Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fea7",
+            "name": "Khalor",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.795Z",
+            "created_at": "2020-12-07T09:21:10.795Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fea8",
+            "name": "Khandra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.797Z",
+            "created_at": "2020-12-07T09:21:10.797Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fea9",
+            "name": "Khantora",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.797Z",
+            "created_at": "2020-12-07T09:21:10.797Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feaa",
+            "name": "Kharagpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.800Z",
+            "created_at": "2020-12-07T09:21:10.800Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feab",
+            "name": "Kharagpur Railway Settlement",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.800Z",
+            "created_at": "2020-12-07T09:21:10.800Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feac",
+            "name": "Kharar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.801Z",
+            "created_at": "2020-12-07T09:21:10.801Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fead",
+            "name": "Khardaha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.802Z",
+            "created_at": "2020-12-07T09:21:10.802Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feae",
+            "name": "Khari Mala Khagrabari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.802Z",
+            "created_at": "2020-12-07T09:21:10.802Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feaf",
+            "name": "Kharsarai",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.803Z",
+            "created_at": "2020-12-07T09:21:10.803Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feb0",
+            "name": "Khatra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.803Z",
+            "created_at": "2020-12-07T09:21:10.803Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feb1",
+            "name": "Khodarampur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.804Z",
+            "created_at": "2020-12-07T09:21:10.804Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feb2",
+            "name": "Kodalia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.804Z",
+            "created_at": "2020-12-07T09:21:10.804Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feb3",
+            "name": "Kolaghat",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.806Z",
+            "created_at": "2020-12-07T09:21:10.806Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feb4",
+            "name": "Kolaghat Thermal Power Project",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.809Z",
+            "created_at": "2020-12-07T09:21:10.809Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feb5",
+            "name": "Kolkata",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.810Z",
+            "created_at": "2020-12-07T09:21:10.810Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feb6",
+            "name": "Konardihi",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.810Z",
+            "created_at": "2020-12-07T09:21:10.810Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feb7",
+            "name": "Konnogar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.811Z",
+            "created_at": "2020-12-07T09:21:10.811Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feb8",
+            "name": "Krishnanagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.811Z",
+            "created_at": "2020-12-07T09:21:10.811Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feb9",
+            "name": "Krishnapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.812Z",
+            "created_at": "2020-12-07T09:21:10.812Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feba",
+            "name": "Kshidirpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.813Z",
+            "created_at": "2020-12-07T09:21:10.813Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5febb",
+            "name": "Kshirpai",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.813Z",
+            "created_at": "2020-12-07T09:21:10.813Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5febc",
+            "name": "Kulihanda",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.814Z",
+            "created_at": "2020-12-07T09:21:10.814Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5febd",
+            "name": "Kulti",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.814Z",
+            "created_at": "2020-12-07T09:21:10.814Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5febe",
+            "name": "Kunustara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.817Z",
+            "created_at": "2020-12-07T09:21:10.817Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5febf",
+            "name": "Kuperskem",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.818Z",
+            "created_at": "2020-12-07T09:21:10.818Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fec0",
+            "name": "Madanpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.818Z",
+            "created_at": "2020-12-07T09:21:10.818Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fec1",
+            "name": "Madhusudanpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.819Z",
+            "created_at": "2020-12-07T09:21:10.819Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fec2",
+            "name": "Madhyamgram",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.819Z",
+            "created_at": "2020-12-07T09:21:10.819Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fec3",
+            "name": "Maheshtala",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.820Z",
+            "created_at": "2020-12-07T09:21:10.820Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fec4",
+            "name": "Mahiari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.821Z",
+            "created_at": "2020-12-07T09:21:10.821Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fec5",
+            "name": "Mahikpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.821Z",
+            "created_at": "2020-12-07T09:21:10.821Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fec6",
+            "name": "Mahira",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.822Z",
+            "created_at": "2020-12-07T09:21:10.822Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fec7",
+            "name": "Mahishadal",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.822Z",
+            "created_at": "2020-12-07T09:21:10.822Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fec8",
+            "name": "Mainaguri",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.827Z",
+            "created_at": "2020-12-07T09:21:10.827Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fec9",
+            "name": "Makardaha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.828Z",
+            "created_at": "2020-12-07T09:21:10.828Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feca",
+            "name": "Mal",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.828Z",
+            "created_at": "2020-12-07T09:21:10.828Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fecb",
+            "name": "Malda",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.829Z",
+            "created_at": "2020-12-07T09:21:10.829Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fecc",
+            "name": "Mandarbani",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.833Z",
+            "created_at": "2020-12-07T09:21:10.833Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fecd",
+            "name": "Mansinhapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.834Z",
+            "created_at": "2020-12-07T09:21:10.834Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fece",
+            "name": "Masila",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.835Z",
+            "created_at": "2020-12-07T09:21:10.835Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fecf",
+            "name": "Maslandapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.835Z",
+            "created_at": "2020-12-07T09:21:10.835Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fed0",
+            "name": "Mathabhanga",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.836Z",
+            "created_at": "2020-12-07T09:21:10.836Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fed1",
+            "name": "Mekliganj",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.836Z",
+            "created_at": "2020-12-07T09:21:10.836Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fed2",
+            "name": "Memari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.839Z",
+            "created_at": "2020-12-07T09:21:10.839Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fed3",
+            "name": "Midnapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.840Z",
+            "created_at": "2020-12-07T09:21:10.840Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fed4",
+            "name": "Mirik",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.840Z",
+            "created_at": "2020-12-07T09:21:10.840Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fed5",
+            "name": "Monoharpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.841Z",
+            "created_at": "2020-12-07T09:21:10.841Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fed6",
+            "name": "Mrigala",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.841Z",
+            "created_at": "2020-12-07T09:21:10.841Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fed7",
+            "name": "Muragachha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.842Z",
+            "created_at": "2020-12-07T09:21:10.842Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fed8",
+            "name": "Murgathaul",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.843Z",
+            "created_at": "2020-12-07T09:21:10.843Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fed9",
+            "name": "Murshidabad",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.843Z",
+            "created_at": "2020-12-07T09:21:10.843Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feda",
+            "name": "Nabadhai Dutta Pukur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.844Z",
+            "created_at": "2020-12-07T09:21:10.844Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fedb",
+            "name": "Nabagram",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.844Z",
+            "created_at": "2020-12-07T09:21:10.844Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fedc",
+            "name": "Nabgram",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.847Z",
+            "created_at": "2020-12-07T09:21:10.847Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fedd",
+            "name": "Nachhratpur Katabari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.847Z",
+            "created_at": "2020-12-07T09:21:10.847Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fede",
+            "name": "Nadia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.848Z",
+            "created_at": "2020-12-07T09:21:10.848Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fedf",
+            "name": "Naihati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.849Z",
+            "created_at": "2020-12-07T09:21:10.849Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fee0",
+            "name": "Nalhati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.849Z",
+            "created_at": "2020-12-07T09:21:10.849Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fee1",
+            "name": "Nasra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.850Z",
+            "created_at": "2020-12-07T09:21:10.850Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fee2",
+            "name": "Natibpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.850Z",
+            "created_at": "2020-12-07T09:21:10.850Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fee3",
+            "name": "Naupala",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.851Z",
+            "created_at": "2020-12-07T09:21:10.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fee4",
+            "name": "Navadwip",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.851Z",
+            "created_at": "2020-12-07T09:21:10.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fee5",
+            "name": "Nebadhai Duttapukur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.852Z",
+            "created_at": "2020-12-07T09:21:10.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fee6",
+            "name": "New Barrackpore",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.855Z",
+            "created_at": "2020-12-07T09:21:10.855Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fee7",
+            "name": "Ni Barakpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.855Z",
+            "created_at": "2020-12-07T09:21:10.855Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fee8",
+            "name": "Nibra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.856Z",
+            "created_at": "2020-12-07T09:21:10.856Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fee9",
+            "name": "Noapara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.856Z",
+            "created_at": "2020-12-07T09:21:10.856Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feea",
+            "name": "Nokpul",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.857Z",
+            "created_at": "2020-12-07T09:21:10.857Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feeb",
+            "name": "North Barakpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.857Z",
+            "created_at": "2020-12-07T09:21:10.857Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feec",
+            "name": "Odlabari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.858Z",
+            "created_at": "2020-12-07T09:21:10.858Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feed",
+            "name": "Old Maldah",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.858Z",
+            "created_at": "2020-12-07T09:21:10.858Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feee",
+            "name": "Ondal",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.859Z",
+            "created_at": "2020-12-07T09:21:10.859Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feef",
+            "name": "Pairagachha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.859Z",
+            "created_at": "2020-12-07T09:21:10.859Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fef0",
+            "name": "Palashban",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.865Z",
+            "created_at": "2020-12-07T09:21:10.865Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fef1",
+            "name": "Panchla",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.866Z",
+            "created_at": "2020-12-07T09:21:10.866Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fef2",
+            "name": "Panchpara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.866Z",
+            "created_at": "2020-12-07T09:21:10.866Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fef3",
+            "name": "Pandua",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.867Z",
+            "created_at": "2020-12-07T09:21:10.867Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fef4",
+            "name": "Pangachhiya",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.867Z",
+            "created_at": "2020-12-07T09:21:10.867Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fef5",
+            "name": "Paniara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.868Z",
+            "created_at": "2020-12-07T09:21:10.868Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fef6",
+            "name": "Panihati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.869Z",
+            "created_at": "2020-12-07T09:21:10.869Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fef7",
+            "name": "Panuhat",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.869Z",
+            "created_at": "2020-12-07T09:21:10.869Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fef8",
+            "name": "Par Beliya",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.870Z",
+            "created_at": "2020-12-07T09:21:10.870Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fef9",
+            "name": "Parashkol",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.870Z",
+            "created_at": "2020-12-07T09:21:10.870Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fefa",
+            "name": "Parasia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.873Z",
+            "created_at": "2020-12-07T09:21:10.873Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fefb",
+            "name": "Parbbatipur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.874Z",
+            "created_at": "2020-12-07T09:21:10.874Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fefc",
+            "name": "Parui",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.874Z",
+            "created_at": "2020-12-07T09:21:10.874Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fefd",
+            "name": "Paschim Jitpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.875Z",
+            "created_at": "2020-12-07T09:21:10.875Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5fefe",
+            "name": "Paschim Punro Para",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.875Z",
+            "created_at": "2020-12-07T09:21:10.875Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5feff",
+            "name": "Patrasaer",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.878Z",
+            "created_at": "2020-12-07T09:21:10.878Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff00",
+            "name": "Pattabong Tea Garden",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.879Z",
+            "created_at": "2020-12-07T09:21:10.879Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff01",
+            "name": "Patuli",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.879Z",
+            "created_at": "2020-12-07T09:21:10.879Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff02",
+            "name": "Patulia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.880Z",
+            "created_at": "2020-12-07T09:21:10.880Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff03",
+            "name": "Phulia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.880Z",
+            "created_at": "2020-12-07T09:21:10.880Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff04",
+            "name": "Podara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.892Z",
+            "created_at": "2020-12-07T09:21:10.892Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff05",
+            "name": "Port Blair",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.893Z",
+            "created_at": "2020-12-07T09:21:10.893Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff06",
+            "name": "Prayagpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.893Z",
+            "created_at": "2020-12-07T09:21:10.893Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff07",
+            "name": "Pujali",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.894Z",
+            "created_at": "2020-12-07T09:21:10.894Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff08",
+            "name": "Purba Medinipur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.894Z",
+            "created_at": "2020-12-07T09:21:10.894Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff09",
+            "name": "Purba Tajpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.895Z",
+            "created_at": "2020-12-07T09:21:10.895Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff0a",
+            "name": "Purulia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.895Z",
+            "created_at": "2020-12-07T09:21:10.895Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff0b",
+            "name": "Raghudebbati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.896Z",
+            "created_at": "2020-12-07T09:21:10.896Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff0c",
+            "name": "Raghudebpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.896Z",
+            "created_at": "2020-12-07T09:21:10.896Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff0d",
+            "name": "Raghunathchak",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.897Z",
+            "created_at": "2020-12-07T09:21:10.897Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff0e",
+            "name": "Raghunathpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.900Z",
+            "created_at": "2020-12-07T09:21:10.900Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff0f",
+            "name": "Raghunathpur-Dankuni",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.900Z",
+            "created_at": "2020-12-07T09:21:10.900Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff10",
+            "name": "Raghunathpur-Magra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.901Z",
+            "created_at": "2020-12-07T09:21:10.901Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff11",
+            "name": "Raigachhi",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.901Z",
+            "created_at": "2020-12-07T09:21:10.901Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff12",
+            "name": "Raiganj",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.902Z",
+            "created_at": "2020-12-07T09:21:10.902Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff13",
+            "name": "Raipur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.903Z",
+            "created_at": "2020-12-07T09:21:10.903Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff14",
+            "name": "Rajarhat Gopalpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.903Z",
+            "created_at": "2020-12-07T09:21:10.903Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff15",
+            "name": "Rajpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.904Z",
+            "created_at": "2020-12-07T09:21:10.904Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff16",
+            "name": "Ramchandrapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.904Z",
+            "created_at": "2020-12-07T09:21:10.904Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff17",
+            "name": "Ramjibanpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.905Z",
+            "created_at": "2020-12-07T09:21:10.905Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff18",
+            "name": "Ramnagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.907Z",
+            "created_at": "2020-12-07T09:21:10.907Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff19",
+            "name": "Rampur Hat",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.908Z",
+            "created_at": "2020-12-07T09:21:10.908Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff1a",
+            "name": "Ranaghat",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.909Z",
+            "created_at": "2020-12-07T09:21:10.909Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff1b",
+            "name": "Raniganj",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.909Z",
+            "created_at": "2020-12-07T09:21:10.909Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff1c",
+            "name": "Ratibati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.910Z",
+            "created_at": "2020-12-07T09:21:10.910Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff1d",
+            "name": "Raypur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.910Z",
+            "created_at": "2020-12-07T09:21:10.910Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff1e",
+            "name": "Rishra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.911Z",
+            "created_at": "2020-12-07T09:21:10.911Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff1f",
+            "name": "Sahapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.914Z",
+            "created_at": "2020-12-07T09:21:10.914Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff20",
+            "name": "Sainthia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.914Z",
+            "created_at": "2020-12-07T09:21:10.914Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff21",
+            "name": "Salap",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.915Z",
+            "created_at": "2020-12-07T09:21:10.915Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff22",
+            "name": "Sankarpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.915Z",
+            "created_at": "2020-12-07T09:21:10.915Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff23",
+            "name": "Sankrail",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.916Z",
+            "created_at": "2020-12-07T09:21:10.916Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff24",
+            "name": "Santoshpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.917Z",
+            "created_at": "2020-12-07T09:21:10.917Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff25",
+            "name": "Saontaidih",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.917Z",
+            "created_at": "2020-12-07T09:21:10.917Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff26",
+            "name": "Rishra Cantonment",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.918Z",
+            "created_at": "2020-12-07T09:21:10.918Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff27",
+            "name": "Ruiya",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.918Z",
+            "created_at": "2020-12-07T09:21:10.918Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff28",
+            "name": "Sahajadpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.919Z",
+            "created_at": "2020-12-07T09:21:10.919Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff29",
+            "name": "Sarenga",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.921Z",
+            "created_at": "2020-12-07T09:21:10.921Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff2a",
+            "name": "Sarpi",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.922Z",
+            "created_at": "2020-12-07T09:21:10.922Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff2b",
+            "name": "Satigachha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.923Z",
+            "created_at": "2020-12-07T09:21:10.923Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff2c",
+            "name": "Serpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.923Z",
+            "created_at": "2020-12-07T09:21:10.923Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff2d",
+            "name": "Shankhanagar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.924Z",
+            "created_at": "2020-12-07T09:21:10.924Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff2e",
+            "name": "Shantipur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.924Z",
+            "created_at": "2020-12-07T09:21:10.924Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff2f",
+            "name": "Shrirampur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.925Z",
+            "created_at": "2020-12-07T09:21:10.925Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff30",
+            "name": "Siduli",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.925Z",
+            "created_at": "2020-12-07T09:21:10.925Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff31",
+            "name": "Siliguri",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.926Z",
+            "created_at": "2020-12-07T09:21:10.926Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff32",
+            "name": "Simla",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.926Z",
+            "created_at": "2020-12-07T09:21:10.926Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff33",
+            "name": "Singur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.929Z",
+            "created_at": "2020-12-07T09:21:10.929Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff34",
+            "name": "Sirsha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.930Z",
+            "created_at": "2020-12-07T09:21:10.930Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff35",
+            "name": "Siuri",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.930Z",
+            "created_at": "2020-12-07T09:21:10.930Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff36",
+            "name": "Sobhaganj",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.931Z",
+            "created_at": "2020-12-07T09:21:10.931Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff37",
+            "name": "Sodpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.931Z",
+            "created_at": "2020-12-07T09:21:10.931Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff38",
+            "name": "Sonamukhi",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.932Z",
+            "created_at": "2020-12-07T09:21:10.932Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff39",
+            "name": "Sonatikiri",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.933Z",
+            "created_at": "2020-12-07T09:21:10.933Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff3a",
+            "name": "Srikantabati",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.933Z",
+            "created_at": "2020-12-07T09:21:10.933Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff3b",
+            "name": "Srirampur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.934Z",
+            "created_at": "2020-12-07T09:21:10.934Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff3c",
+            "name": "Sukdal",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.934Z",
+            "created_at": "2020-12-07T09:21:10.934Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff3d",
+            "name": "Taherpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.937Z",
+            "created_at": "2020-12-07T09:21:10.937Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff3e",
+            "name": "Taki",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.938Z",
+            "created_at": "2020-12-07T09:21:10.938Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff3f",
+            "name": "Talbandha",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.938Z",
+            "created_at": "2020-12-07T09:21:10.938Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff40",
+            "name": "Tamluk",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.939Z",
+            "created_at": "2020-12-07T09:21:10.939Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff41",
+            "name": "Tarakeswar",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.939Z",
+            "created_at": "2020-12-07T09:21:10.939Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff42",
+            "name": "Tentulberia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.940Z",
+            "created_at": "2020-12-07T09:21:10.940Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff43",
+            "name": "Tentulkuli",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.941Z",
+            "created_at": "2020-12-07T09:21:10.941Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff44",
+            "name": "Thermal Power Project",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.941Z",
+            "created_at": "2020-12-07T09:21:10.941Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff45",
+            "name": "Tinsukia",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.942Z",
+            "created_at": "2020-12-07T09:21:10.942Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff46",
+            "name": "Titagarh",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.942Z",
+            "created_at": "2020-12-07T09:21:10.942Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff47",
+            "name": "Tufanganj",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.945Z",
+            "created_at": "2020-12-07T09:21:10.945Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff48",
+            "name": "Ukhra",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.946Z",
+            "created_at": "2020-12-07T09:21:10.946Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff49",
+            "name": "Ula",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.946Z",
+            "created_at": "2020-12-07T09:21:10.946Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff4a",
+            "name": "Ulubaria",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.947Z",
+            "created_at": "2020-12-07T09:21:10.947Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff4b",
+            "name": "Uttar Durgapur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.948Z",
+            "created_at": "2020-12-07T09:21:10.948Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff4c",
+            "name": "Uttar Goara",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.948Z",
+            "created_at": "2020-12-07T09:21:10.948Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff4d",
+            "name": "Uttar Kalas",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.949Z",
+            "created_at": "2020-12-07T09:21:10.949Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff4e",
+            "name": "Uttar Kamakhyaguri",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.949Z",
+            "created_at": "2020-12-07T09:21:10.949Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff4f",
+            "name": "Uttar Latabari",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.950Z",
+            "created_at": "2020-12-07T09:21:10.950Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff50",
+            "name": "Uttar Mahammadpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.950Z",
+            "created_at": "2020-12-07T09:21:10.950Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff51",
+            "name": "Uttar Pirpur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.952Z",
+            "created_at": "2020-12-07T09:21:10.952Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff52",
+            "name": "Uttar Raypur",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.953Z",
+            "created_at": "2020-12-07T09:21:10.953Z",
+            "__v": 0
+        },
+        {
+            "_id": "5fcdf406a208394d52e5ff53",
+            "name": "Uttarpara-Kotrung",
+            "state": "5fcdf2fa33edf646096d54e1",
+            "updated_at": "2020-12-07T09:21:10.953Z",
+            "created_at": "2020-12-07T09:21:10.953Z",
+            "__v": 0
+        }
+    ]
+}

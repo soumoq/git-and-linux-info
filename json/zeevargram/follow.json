@@ -1,0 +1,51 @@
+{
+    "success": true,
+    "role": "Business",
+    "data": [
+        {
+            "_id": "60067fe9e4ef57d7958d928c",
+            "user": {
+                "business_name": "",
+                "otp": null,
+                "license_number": "",
+                "establishment_date": "",
+                "pan_number": "",
+                "registration_certificate": null,
+                "gst_certificate": null,
+                "profile_image": null,
+                "banner_image": null,
+                "age": "27",
+                "gender": "Female",
+                "about": null,
+                "address": null,
+                "website": null,
+                "_id": "60067d71e4ef57d7958d9285",
+                "name": "Payal Sharma",
+                "email": "payal@gmail.com",
+                "mobile_number": "6396281332",
+                "password": "21691c25e4ce88862314244802b66df7dba74d689022274911968f2b5fb89b25",
+                "role": "Individual",
+                "state": {
+                    "_id": "5fcdf2fa33edf646096d54e1",
+                    "name": "West Bengal",
+                    "country": "5fcdf2d633edf646096d5427",
+                    "updated_at": "2020-12-07T09:21:56.798Z",
+                    "created_at": "2020-12-07T09:16:42.441Z",
+                    "__v": 0
+                },
+                "city": {
+                    "_id": "5fcdf406a208394d52e5fe2f",
+                    "name": "Dhakuria",
+                    "state": "5fcdf2fa33edf646096d54e1",
+                    "updated_at": "2020-12-07T09:21:10.673Z",
+                    "created_at": "2020-12-07T09:21:10.673Z",
+                    "__v": 0
+                },
+                "signup_method": "Normal",
+                "account_verified": "No",
+                "slug": "payal-sharma",
+                "login_status": "offline"
+            }
+        }
+    ]
+}

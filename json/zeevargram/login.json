@@ -1,0 +1,50 @@
+{
+    "success": true,
+    "data": {
+        "business_name": "",
+        "otp": null,
+        "license_number": "",
+        "establishment_date": "",
+        "pan_number": "",
+        "registration_certificate": "1609161931187.jpg",
+        "age": "",
+        "gender": "",
+        "profile_image": "1608622115566.jpg",
+        "banner_image": "1609141622921.jpg",
+        "about": null,
+        "address": null,
+        "website": null,
+        "stories": [
+            "5fe357395809b147124d5dfc",
+            "5fe357395809b147124d5dfd",
+            "5fe357395809b147124d5dfe",
+            "5fe357395809b147124d5dff",
+            "5fe357395809b147124d5e00",
+            "5fe9cdacf644fd8120fb927b"
+        ],
+        "followers": [
+            "5fe9b854a35afd56606cc011"
+        ],
+        "bookmarks": [
+            "5fe07f09993d2c595cb63f2c",
+            "5fe9a1b9a4865cc42cc2c7f3",
+            "5fe9e43a11fa2da9e0cb27c3"
+        ],
+        "_id": "5fe07e82993d2c595cb63f29",
+        "name": "Chaganlal Jewellery Store",
+        "email": "chaganlal",
+        "mobile_number": "1234567890",
+        "password": "21691c25e4ce88862314244802b66df7dba74d689022274911968f2b5fb89b25",
+        "role": "Business",
+        "country": "5fcdf2d633edf646096d5427",
+        "state": "5fcdf2fa33edf646096d54c4",
+        "city": "5fcdf3fea208394d52e5ee77",
+        "signup_method": "Normal",
+        "account_verified": "Yes",
+        "updated_at": "2021-01-06T06:50:09.963Z",
+        "created_at": "2020-12-21T10:52:50.021Z",
+        "slug": "chaganlal-jewellery-store",
+        "__v": 0,
+        "login_status": "online"
+    }
+}

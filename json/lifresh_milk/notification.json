@@ -1,0 +1,65 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 7,
+            "title": "Order Delivered",
+            "body": "Your order has been delivered successfully.",
+            "curr_time": "13:04",
+            "curr_date": "2020-12-14",
+            "type": 2,
+            "customer_id": 2,
+            "created_at": "2020-12-14T07:34:36.000000Z",
+            "updated_at": "2020-12-14T07:34:36.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 6,
+            "title": "Order Delivered",
+            "body": "Your order has been delivered successfully.",
+            "curr_time": "12:37",
+            "curr_date": "2020-12-14",
+            "type": 2,
+            "customer_id": 2,
+            "created_at": "2020-12-14T07:07:36.000000Z",
+            "updated_at": "2020-12-14T07:07:36.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 4,
+            "title": "Order Delivered",
+            "body": "Your order has been delivered successfully.",
+            "curr_time": "11:16",
+            "curr_date": "2020-12-14",
+            "type": 2,
+            "customer_id": 2,
+            "created_at": "2020-12-14T05:46:43.000000Z",
+            "updated_at": "2020-12-14T05:46:43.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "title": "Order Delivered",
+            "body": "Your order has been delivered successfully.",
+            "curr_time": "10:59",
+            "curr_date": "2020-12-14",
+            "type": 2,
+            "customer_id": 2,
+            "created_at": "2020-12-14T05:29:25.000000Z",
+            "updated_at": "2020-12-14T05:29:25.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 1,
+            "title": "Order Delivered",
+            "body": "Your order has been delivered successfully.",
+            "curr_time": "09:29",
+            "curr_date": "2020-12-14",
+            "type": 2,
+            "customer_id": 2,
+            "created_at": "2020-12-14T03:59:19.000000Z",
+            "updated_at": "2020-12-14T03:59:19.000000Z",
+            "deleted_at": null
+        }
+    ]
+}

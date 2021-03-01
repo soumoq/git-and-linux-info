@@ -1,0 +1,154 @@
+{
+    "success": true,
+    "data": [
+        {
+            "product": {
+                "id": 16,
+                "product_id": 14,
+                "organization_id": 5,
+                "current_stock": 100,
+                "warehouse_id": 6,
+                "rack_id": 15,
+                "hsn_code": "MT1",
+                "is_active": "Yes",
+                "created_at": "2020-11-06T16:46:36.000000Z",
+                "updated_at": "2020-11-06T16:46:59.000000Z",
+                "deleted_at": null,
+                "product": {
+                    "id": 14,
+                    "productcategory_id": 7,
+                    "name": "Toned Milk",
+                    "measurementtype_id": 6,
+                    "photo": "1604661396.jpg",
+                    "price_per_unit": 50,
+                    "weight": "500",
+                    "vol": 500,
+                    "gst_percent": "1",
+                    "hsn_code": "MT1",
+                    "slug": "toned-milk",
+                    "added_by_organization_id": 5,
+                    "sku": "MT1",
+                    "is_approved": "Yes",
+                    "description": null,
+                    "created_at": "2020-11-06T16:46:36.000000Z",
+                    "updated_at": "2020-11-06T16:46:36.000000Z",
+                    "deleted_at": null
+                }
+            },
+            "productpricings": [
+                {
+                    "id": 24,
+                    "product_id": 14,
+                    "buying_qty": 1,
+                    "price": 50,
+                    "organization_id": 5,
+                    "organizationproduct_id": 16,
+                    "created_at": "2020-11-06T16:47:16.000000Z",
+                    "updated_at": "2020-11-06T16:47:16.000000Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": 25,
+                    "product_id": 14,
+                    "buying_qty": 2,
+                    "price": 95,
+                    "organization_id": 5,
+                    "organizationproduct_id": 16,
+                    "created_at": "2020-11-06T16:47:36.000000Z",
+                    "updated_at": "2020-11-06T16:47:36.000000Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": 26,
+                    "product_id": 14,
+                    "buying_qty": 5,
+                    "price": 80,
+                    "organization_id": 5,
+                    "organizationproduct_id": 16,
+                    "created_at": "2020-11-06T16:47:52.000000Z",
+                    "updated_at": "2020-11-06T16:47:52.000000Z",
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "product": {
+                "id": 17,
+                "product_id": 15,
+                "organization_id": 5,
+                "current_stock": 100,
+                "warehouse_id": 6,
+                "rack_id": 16,
+                "hsn_code": "MC1",
+                "is_active": "Yes",
+                "created_at": "2020-11-06T16:51:18.000000Z",
+                "updated_at": "2020-11-06T16:51:37.000000Z",
+                "deleted_at": null,
+                "product": {
+                    "id": 15,
+                    "productcategory_id": 7,
+                    "name": "Cream Milk",
+                    "measurementtype_id": 6,
+                    "photo": "1604661678.png",
+                    "price_per_unit": 60,
+                    "weight": "500",
+                    "vol": 500,
+                    "gst_percent": "1",
+                    "hsn_code": "MC1",
+                    "slug": "cream-milk",
+                    "added_by_organization_id": 5,
+                    "sku": "MC1",
+                    "is_approved": "Yes",
+                    "description": null,
+                    "created_at": "2020-11-06T16:51:18.000000Z",
+                    "updated_at": "2020-11-06T16:51:18.000000Z",
+                    "deleted_at": null
+                }
+            },
+            "productpricings": [
+                {
+                    "id": 27,
+                    "product_id": 15,
+                    "buying_qty": 1,
+                    "price": 60,
+                    "organization_id": 5,
+                    "organizationproduct_id": 17,
+                    "created_at": "2020-11-06T16:51:53.000000Z",
+                    "updated_at": "2020-11-06T16:51:53.000000Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": 28,
+                    "product_id": 15,
+                    "buying_qty": 2,
+                    "price": 110,
+                    "organization_id": 5,
+                    "organizationproduct_id": 17,
+                    "created_at": "2020-11-06T16:52:08.000000Z",
+                    "updated_at": "2020-11-06T16:52:08.000000Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": 29,
+                    "product_id": 15,
+                    "buying_qty": 5,
+                    "price": 250,
+                    "organization_id": 5,
+                    "organizationproduct_id": 17,
+                    "created_at": "2020-11-06T16:52:27.000000Z",
+                    "updated_at": "2020-11-06T16:52:27.000000Z",
+                    "deleted_at": null
+                }
+            ]
+        }
+    ],
+    "productcategory": {
+        "id": 7,
+        "parent_id": null,
+        "name": "Milk",
+        "photo": "1604660754.jpg",
+        "created_at": "2020-11-06T16:35:54.000000Z",
+        "updated_at": "2020-11-06T16:35:54.000000Z",
+        "deleted_at": null
+    }
+}

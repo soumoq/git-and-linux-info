@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "data": {
+        "id": 15,
+        "first_name": "Testing",
+        "last_name": "Demo",
+        "mobile": "1478541204",
+        "otp": "193062",
+        "email": null,
+        "customer_code": "1602330896",
+        "status": "Active",
+        "salesagent_id": null,
+        "is_deleted": "No",
+        "created_at": "2020-10-10T11:54:56.000000Z",
+        "updated_at": "2020-10-12T09:49:21.000000Z",
+        "deleted_at": null
+    },
+    "msg": "Profile updated successfully"
+}

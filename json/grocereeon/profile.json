@@ -1,0 +1,42 @@
+{
+    "success": true,
+    "data": {
+        "id": 24,
+        "name": "Soumojyoti Ganguly",
+        "slug": "soumojyoti-ganguly",
+        "closing_day": null,
+        "address1": "10",
+        "address2": "Salt Lake",
+        "mobile": "7477540540",
+        "email": "bat48655@gmail.com",
+        "logo": null,
+        "city_id": 3,
+        "gst_treatment": "Unregister GST",
+        "gst_number": null,
+        "pan_number": "1234567890",
+        "basis_of_target": "Monthly",
+        "monthly_starting_day": null,
+        "area_id": null,
+        "registration_number": "RN1",
+        "latitude": null,
+        "longitude": null,
+        "alternate_phone_1": null,
+        "alternate_phone_2": null,
+        "opening_time": null,
+        "closing_time": null,
+        "store_code": null,
+        "created_at": "2020-12-08T10:02:27.000000Z",
+        "updated_at": "2020-12-08T10:02:27.000000Z",
+        "deleted_at": null,
+        "city": {
+            "id": 3,
+            "state_id": null,
+            "name": "South 24 Parganas- ITC",
+            "code": null,
+            "created_at": "2020-03-23T18:23:15.000000Z",
+            "updated_at": null,
+            "deleted_at": null
+        },
+        "area": null
+    }
+}

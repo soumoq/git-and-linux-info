@@ -1,0 +1,117 @@
+{
+    "results_found": 11581,
+    "results_start": 0,
+    "results_shown": 1,
+    "restaurants": [
+        {
+            "restaurant": {
+                "R": {
+                    "res_id": 19088819,
+                    "is_grocery_store": false,
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    }
+                },
+                "apikey": "1b3c8b37ea96785391fa55c288ac385c",
+                "id": "19088819",
+                "name": "Roastery Coffee House",
+                "url": "https://www.zomato.com/kolkata/roastery-coffee-house-gariahat?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "70 B, Calcutta South India Club, Gariahat, Kolkata",
+                    "locality": "Gariahat",
+                    "city": "Kolkata",
+                    "city_id": 2,
+                    "latitude": "22.5185271155",
+                    "longitude": "88.3628862351",
+                    "zipcode": "700029",
+                    "country_id": 1,
+                    "locality_verbose": "Gariahat, Kolkata"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "Cafe, American, Continental, Italian, Coffee, Beverages",
+                "timings": "8am – 11pm (Mon-Sun)",
+                "average_cost_for_two": 800,
+                "price_range": 2,
+                "currency": "Rs.",
+                "highlights": [
+                    "Lunch",
+                    "Debit Card",
+                    "Cash",
+                    "Dinner",
+                    "Takeaway Available",
+                    "Delivery",
+                    "Breakfast",
+                    "Credit Card",
+                    "Outdoor Seating",
+                    "Work Friendly",
+                    "Air Conditioned",
+                    "Indoor Seating",
+                    "Digital Payments Accepted",
+                    "Romantic Dining"
+                ],
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https://b.zmtcdn.com/data/pictures/9/19088819/d4642c3c946af4bcc58aba1f36a14b47.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.5",
+                    "rating_text": "Excellent",
+                    "rating_color": "3F7E00",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.5"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "700"
+                        }
+                    },
+                    "votes": 1617
+                },
+                "all_reviews_count": 1049,
+                "photos_url": "https://www.zomato.com/kolkata/roastery-coffee-house-gariahat/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "photo_count": 1367,
+                "menu_url": "https://www.zomato.com/kolkata/roastery-coffee-house-gariahat/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https://b.zmtcdn.com/data/pictures/9/19088819/d4642c3c946af4bcc58aba1f36a14b47.jpg",
+                "medio_provider": false,
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "store_type": "",
+                "include_bogo_offers": true,
+                "deeplink": "zomato://restaurant/19088819",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https://www.zomato.com/kolkata/roastery-coffee-house-gariahat/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "phone_numbers": "+91 7330663045, +91 7003118017",
+                "all_reviews": {
+                    "reviews": [
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        },
+                        {
+                            "review": []
+                        }
+                    ]
+                },
+                "establishment": [
+                    "Café"
+                ],
+                "establishment_types": []
+            }
+        }
+    ]
+}

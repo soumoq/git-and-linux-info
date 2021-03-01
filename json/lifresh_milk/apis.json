@@ -1,0 +1,553 @@
+{
+    "info": {
+        "_postman_id": "00161f2e-7227-4232-b31e-b328aa319f0e",
+        "name": "LiFresh",
+        "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "Login",
+            "_postman_id": "5ce1c765-5167-4cc2-8399-7124f0627a93",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/login?mobile=1478541204&organization_id=5",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "login"
+                    ],
+                    "query": [
+                        {
+                            "key": "mobile",
+                            "value": "1478541204"
+                        },
+                        {
+                            "key": "organization_id",
+                            "value": "5"
+                        }
+                    ]
+                },
+                "description": "If mobile number exists then send otp and login\r\nIf not exists then register"
+            },
+            "response": []
+        },
+        {
+            "name": "Verify OTP",
+            "_postman_id": "db280a3e-c59d-436c-a085-dfa7f4bbecd3",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/verify-otp?mobile=1478541204&otp=684765",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "verify-otp"
+                    ],
+                    "query": [
+                        {
+                            "key": "mobile",
+                            "value": "1478541204"
+                        },
+                        {
+                            "key": "otp",
+                            "value": "684765"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Prodile Update",
+            "_postman_id": "6c9f3542-7ef5-4b21-b9f9-6a1db3ea2d0e",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/profile-update?first_name=Testing&last_name=Demo&email=testingdemo@gmail.com&id=15",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "profile-update"
+                    ],
+                    "query": [
+                        {
+                            "key": "first_name",
+                            "value": "Testing"
+                        },
+                        {
+                            "key": "last_name",
+                            "value": "Demo"
+                        },
+                        {
+                            "key": "email",
+                            "value": "testingdemo@gmail.com"
+                        },
+                        {
+                            "key": "id",
+                            "value": "15"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Profile",
+            "_postman_id": "c82bf18a-9b3b-43f1-8a7b-958561db442c",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/profile?id=14&organization_id=5",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "profile"
+                    ],
+                    "query": [
+                        {
+                            "key": "id",
+                            "value": "14"
+                        },
+                        {
+                            "key": "organization_id",
+                            "value": "5"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Customer Addresses",
+            "_postman_id": "12c73919-105d-425e-97fd-baca46344f72",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/addresses?id=15",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "addresses"
+                    ],
+                    "query": [
+                        {
+                            "key": "id",
+                            "value": "15"
+                        }
+                    ]
+                },
+                "description": "Get all address by customer id"
+            },
+            "response": []
+        },
+        {
+            "name": "Store Address",
+            "_postman_id": "c21ac70b-f529-4547-9d51-17efa1f0ce79",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/address/store?id=15&addressline1=Saltlake&addressline2=Kolkata&postalcode_id=4",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "address",
+                        "store"
+                    ],
+                    "query": [
+                        {
+                            "key": "id",
+                            "value": "15"
+                        },
+                        {
+                            "key": "addressline1",
+                            "value": "Saltlake"
+                        },
+                        {
+                            "key": "addressline2",
+                            "value": "Kolkata"
+                        },
+                        {
+                            "key": "postalcode_id",
+                            "value": "4"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Postalcodes",
+            "_postman_id": "ee68f19b-457a-44e7-876c-a02fb1baef37",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": "http://livedeals.co.in/projects/lifresh/api/customer/postalcodes"
+            },
+            "response": []
+        },
+        {
+            "name": "Products",
+            "_postman_id": "cfd04afa-9df7-41ee-9cd0-c7d5bed5d442",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/products?organization_id=5",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "products"
+                    ],
+                    "query": [
+                        {
+                            "key": "organization_id",
+                            "value": "5"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Product Categories",
+            "_postman_id": "48379984-290c-449d-861f-ec66c9efd83e",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": "http://livedeals.co.in/projects/lifresh/api/customer/productcategories"
+            },
+            "response": []
+        },
+        {
+            "name": "Product Details",
+            "_postman_id": "cf854eac-1215-47a2-b4c1-420c76ead3c4",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/product/details?product_id=10&organization_id=5",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "product",
+                        "details"
+                    ],
+                    "query": [
+                        {
+                            "key": "product_id",
+                            "value": "10"
+                        },
+                        {
+                            "key": "organization_id",
+                            "value": "5"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Store OTP From Firebase",
+            "_postman_id": "bcd10394-c720-4214-96d1-93a6cd265592",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/save-otp-from-firebase?mobile=1010504780&otp=55478",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "save-otp-from-firebase"
+                    ],
+                    "query": [
+                        {
+                            "key": "mobile",
+                            "value": "1010504780"
+                        },
+                        {
+                            "key": "otp",
+                            "value": "55478"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "My Subscriptions",
+            "_postman_id": "1aea2205-512c-451d-b6e3-4664a76d1ec3",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/my-subscriptions?customer_id=14&organization_id=5",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "my-subscriptions"
+                    ],
+                    "query": [
+                        {
+                            "key": "customer_id",
+                            "value": "14"
+                        },
+                        {
+                            "key": "organization_id",
+                            "value": "5"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Products By Category",
+            "_postman_id": "09a36900-0ce9-4029-a7f6-e39093b6f0e3",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/products-by-category?category_id=1&organization_id=5",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "products-by-category"
+                    ],
+                    "query": [
+                        {
+                            "key": "category_id",
+                            "value": "1"
+                        },
+                        {
+                            "key": "organization_id",
+                            "value": "5"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Check Postalcode With Organization",
+            "_postman_id": "82beb5fc-1cb9-48be-af7b-a33c0ecfce88",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/check-postalcode-with-organization?organization_id=5&postalcode_id=1",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "check-postalcode-with-organization"
+                    ],
+                    "query": [
+                        {
+                            "key": "organization_id",
+                            "value": "5"
+                        },
+                        {
+                            "key": "postalcode_id",
+                            "value": "1"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Make Default Address",
+            "_postman_id": "e5bfc87b-576a-436c-b313-ace08e5af94b",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/make-default-address?customer_id=15&address_id=2",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "make-default-address"
+                    ],
+                    "query": [
+                        {
+                            "key": "customer_id",
+                            "value": "15"
+                        },
+                        {
+                            "key": "address_id",
+                            "value": "2"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "New Subscription",
+            "_postman_id": "d715458a-b526-429a-b026-4992c96325c7",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                    "raw": "http://livedeals.co.in/projects/lifresh/api/customer/subscription/save?organization_id=5&type=Monthly&start_date=2020-11-10&customer_id=15&product_id=6&productpricing_id=7&quantity=1",
+                    "protocol": "http",
+                    "host": [
+                        "livedeals",
+                        "co",
+                        "in"
+                    ],
+                    "path": [
+                        "projects",
+                        "lifresh",
+                        "api",
+                        "customer",
+                        "subscription",
+                        "save"
+                    ],
+                    "query": [
+                        {
+                            "key": "organization_id",
+                            "value": "5"
+                        },
+                        {
+                            "key": "type",
+                            "value": "Monthly"
+                        },
+                        {
+                            "key": "start_date",
+                            "value": "2020-11-10"
+                        },
+                        {
+                            "key": "customer_id",
+                            "value": "15"
+                        },
+                        {
+                            "key": "product_id",
+                            "value": "6"
+                        },
+                        {
+                            "key": "productpricing_id",
+                            "value": "7"
+                        },
+                        {
+                            "key": "quantity",
+                            "value": "1"
+                        }
+                    ]
+                }
+            },
+            "response": []
+        }
+    ],
+    "protocolProfileBehavior": {}
+}

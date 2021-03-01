@@ -1,0 +1,41 @@
+{
+    "success": true,
+    "data": [
+        {
+            "parent": null,
+            "image": "1608545365165.jpg",
+            "_id": "5fe07455993d2c595cb63f23",
+            "name": "Gold Jewellery",
+            "ancestors": [],
+            "slug": "gold-jewellery",
+            "__v": 0
+        },
+        {
+            "parent": null,
+            "image": "1608545384875.jpg",
+            "_id": "5fe07468993d2c595cb63f24",
+            "name": "Silver Jewellery",
+            "ancestors": [],
+            "slug": "silver-jewellery",
+            "__v": 0
+        },
+        {
+            "parent": null,
+            "image": "1608545417687.jpg",
+            "_id": "5fe07489993d2c595cb63f25",
+            "name": "Fashion Jewellery",
+            "ancestors": [],
+            "slug": "fashion-jewellery",
+            "__v": 0
+        },
+        {
+            "parent": null,
+            "image": "1608545441011.jpg",
+            "_id": "5fe074a1993d2c595cb63f26",
+            "name": "Kundan Jewellery",
+            "ancestors": [],
+            "slug": "kundan-jewellery",
+            "__v": 0
+        }
+    ]
+}

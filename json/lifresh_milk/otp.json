@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "data": {
+        "id": 17,
+        "first_name": null,
+        "last_name": null,
+        "mobile": "7477540541",
+        "otp": "123456",
+        "email": null,
+        "customer_code": "1602485523",
+        "status": "Active",
+        "salesagent_id": null,
+        "is_deleted": "No",
+        "created_at": "2020-10-12T06:52:03.000000Z",
+        "updated_at": "2020-10-12T09:28:16.000000Z",
+        "deleted_at": null
+    }
+}

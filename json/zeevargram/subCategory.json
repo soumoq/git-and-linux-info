@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "data": [
+        {
+            "parent": "5fe07468993d2c595cb63f24",
+            "image": "1608719637293.jpg",
+            "_id": "5fe31d155b2181c272764d4e",
+            "name": "Silver Plated",
+            "ancestors": [],
+            "slug": "silver-plated",
+            "__v": 0
+        },
+        {
+            "parent": "5fe07468993d2c595cb63f24",
+            "image": "1608719657177.jpg",
+            "_id": "5fe31d295b2181c272764d4f",
+            "name": "Rhodium",
+            "ancestors": [],
+            "slug": "rhodium",
+            "__v": 0
+        }
+    ]
+}

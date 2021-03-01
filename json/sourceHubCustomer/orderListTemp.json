@@ -1,0 +1,105 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 16,
+            "organization_id": 1,
+            "otp": null,
+            "customer_id": 3,
+            "salesagent_id": null,
+            "item_total_amount": 12258,
+            "discount_amount": 0,
+            "return_total_amount": null,
+            "billable_amount": 12258,
+            "date": "2021-01-08",
+            "user_id": null,
+            "order_no": "ORD-8829",
+            "orderstatus_id": 1,
+            "deliveryagent_id": null,
+            "targetcalendar_id": 14,
+            "deleted_at": null,
+            "is_organization": "yes",
+            "is_customer": "yes",
+            "order_status": "Placed",
+            "customer": {
+                "id": 3,
+                "contactpersonsname": "Soumo",
+                "companyname": "Arobit",
+                "displayname": null,
+                "email": null,
+                "contactpersonnumber": "7477540540",
+                "companyphone": "7477540540",
+                "gst_treatment": "712560",
+                "gstin": null,
+                "addressline1": "Hooghly",
+                "addressline2": null,
+                "area_id": 15,
+                "city_id": 2,
+                "postalcode_id": 36,
+                "customer_code": null,
+                "status": "Active",
+                "salesagent_id": null,
+                "is_deleted": "No",
+                "latitude": null,
+                "longitude": null,
+                "otp": "181577",
+                "approval": "accepted",
+                "postalcode": {
+                    "id": 36,
+                    "code": "562106"
+                },
+                "area": {
+                    "id": 15,
+                    "name": "KACHARIPARA TO KAUTALA\r\n",
+                    "city_id": 2,
+                    "area_code": null
+                },
+                "city": {
+                    "id": 2,
+                    "state_id": 1,
+                    "name": "Kolkata",
+                    "code": "BEN2"
+                }
+            },
+            "organization": {
+                "id": 1,
+                "name": "Cater Pure Essentials Pvt Ltd",
+                "closing_day": 700,
+                "address1": "Yeshwantpur",
+                "address2": "NO 16 OLD NO 83 INDUSTRIAL SUBURB",
+                "mobile": "9538122837",
+                "email": "Caterpureessentials@gmail.com",
+                "logo": null,
+                "qr_code": null,
+                "city_id": 1,
+                "postal_code": "560022",
+                "gst_treatment": "Registered GST",
+                "gst_number": "29AAICC3011E1Z3",
+                "pan_number": "AAICC3011E",
+                "basis_of_target": "Monthly",
+                "monthly_starting_day": 1,
+                "area_id": null,
+                "registration_number": null
+            },
+            "orderstatus": {
+                "id": 1,
+                "name": "Placed",
+                "css_class_name": "text-warning"
+            },
+             "orderstatuses": [
+                {
+                    "id": 1,
+                    "name": "Placed",
+                    "css_class_name": "text-warning",
+                    "pivot": {
+                        "order_id": 21,
+                        "orderstatus_id": 1,
+                        "curr_date": "2021-01-08",
+                        "curr_time": "13:54:10"
+                    }
+                }
+            ]
+        }
+    ],
+    "message": ""
+}

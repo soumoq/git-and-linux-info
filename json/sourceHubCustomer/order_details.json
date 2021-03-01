@@ -1,0 +1,104 @@
+{
+    "success": true,
+    "data": {
+        "id": 16,
+        "organization_id": 1,
+        "otp": null,
+        "customer_id": 3,
+        "salesagent_id": null,
+        "item_total_amount": 12258,
+        "discount_amount": 0,
+        "return_total_amount": null,
+        "billable_amount": 12258,
+        "date": "2021-01-08",
+        "user_id": null,
+        "order_no": "ORD-8829",
+        "orderstatus_id": 1,
+        "deliveryagent_id": null,
+        "targetcalendar_id": 14,
+        "is_deleted": "N",
+        "CustomOrderstatuses": [
+            {
+                "id": 1,
+                "name": "Placed",
+                "datetime": "09-09-2020 12:31:11 PM"
+            }
+        ],
+        "time": "07:30:17 AM",
+        "is_organization": "yes",
+        "is_customer": "yes",
+        "is_deliveryagent": "no",
+        "orderproducts": [
+            {
+                "id": 28,
+                "order_id": 16,
+                "product_id": 96,
+                "productpricing_id": 40,
+                "initial_amount": 3690,
+                "initial_qty": 1,
+                "approved_qty": null,
+                "returned_qty": null,
+                "initial_actual_qty": 1,
+                "returned_actual_qty": null,
+                "returned_amount": null,
+                "final_amount": null,
+                "invoice_generated": "No",
+                "is_product": "yes",
+                "is_productpricing": "yes",
+                "productpricing": {
+                    "id": 40,
+                    "product_id": 96,
+                    "buying_qty": 6,
+                    "price": 3690,
+                    "organization_id": 1,
+                    "organizationproduct_id": 96
+                },
+                "product": {
+                    "id": 96,
+                    "productcategory_id": 3,
+                    "name": "Red label 2 kg Mrp 685",
+                    "measurementtype_id": 2,
+                    "photo": "1605361537.jpeg",
+                    "price_per_unit": 685,
+                    "maximum_retail_price": 685,
+                    "weight": "2000",
+                    "vol": null,
+                    "gst_percent": "5",
+                    "hsn_code": "0902",
+                    "slug": "red-label-2-kg-mrp-685",
+                    "added_by_organization_id": 1,
+                    "sku": "SH000069",
+                    "is_approved": "Yes",
+                    "description": null
+                }
+            }
+        ],
+        "is_returned": "yes",
+        "orderstatus": {
+            "id": 1,
+            "name": "Placed",
+            "css_class_name": "text-warning",
+            "created_at": "2020-09-09T12:31:11.000000Z",
+            "updated_at": "2020-09-11T13:41:38.000000Z",
+            "deleted_at": null
+        },
+        "orderstatuses": [
+            {
+                "id": 1,
+                "name": "Placed",
+                "css_class_name": "text-warning",
+                "created_at": "2020-09-09T12:31:11.000000Z",
+                "updated_at": "2020-09-11T13:41:38.000000Z",
+                "deleted_at": null,
+                "pivot": {
+                    "order_id": 16,
+                    "orderstatus_id": 1,
+                    "curr_date": "2021-01-08",
+                    "curr_time": "07:30:17"
+                }
+            }
+        ],
+        "deliveryagent": null
+    },
+    "message": ""
+}

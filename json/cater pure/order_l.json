@@ -1,0 +1,941 @@
+{
+    "success": true,
+    "data": {
+        "orders": [
+            {
+                "id": 10,
+                "organization_id": 5,
+                "otp": null,
+                "customer_id": 1,
+                "salesagent_id": 1,
+                "item_total_amount": 1850,
+                "discount_amount": 0,
+                "billable_amount": 1850,
+                "date": "2020-09-28",
+                "user_id": null,
+                "order_no": "ORD-52",
+                "orderstatus_id": 4,
+                "deliveryagent_id": 1,
+                "is_deleted": "N",
+                "created_at": "2020-09-28T05:57:05.000000Z",
+                "updated_at": "2020-09-28T11:29:39.000000Z",
+                "deleted_at": null,
+                "is_organization": "yes",
+                "is_customer": "yes",
+                "order_status": "Placed",
+                "orderstatus": {
+                    "id": 8,
+                    "name": "Invoice Generated",
+                    "css_class_name": "text-success",
+                    "created_at": "2020-09-16T17:28:01.000000Z",
+                    "updated_at": "2020-09-16T17:28:13.000000Z",
+                    "deleted_at": null,
+                    "pivot": {
+                        "order_id": 10,
+                        "orderstatus_id": 8,
+                        "curr_date": "2020-09-28",
+                        "curr_time": "11:28:53"
+                    }
+                },
+                "customer": {
+                    "id": 1,
+                    "contactpersonsname": "Sahoo",
+                    "companyname": "sahoo companies",
+                    "displayname": "sahoo companies",
+                    "email": "sahoo@gmail.com",
+                    "contactpersonnumber": "8520369748",
+                    "companyphone": "8745210202",
+                    "gst_treatment": "Unregister GST",
+                    "gstin": null,
+                    "addressline1": "kolkata",
+                    "addressline2": null,
+                    "area_id": 21,
+                    "city_id": 3,
+                    "postalcode_id": 1,
+                    "customer_code": "1601042221",
+                    "status": "Active",
+                    "salesagent_id": 1,
+                    "is_deleted": "No",
+                    "latitude": null,
+                    "longitude": null,
+                    "created_at": "2020-09-25T19:27:01.000000Z",
+                    "updated_at": "2020-09-25T19:27:01.000000Z",
+                    "deleted_at": null
+                },
+                "organization": {
+                    "id": 5,
+                    "name": "ITC",
+                    "closing_day": 750,
+                    "address1": "kolkata Sonarpur",
+                    "address2": null,
+                    "mobile": "8910300747",
+                    "email": "itc@gmail.com",
+                    "logo": "1588779956.png",
+                    "city_id": 3,
+                    "postal_code": "7412036955",
+                    "gst_treatment": "Unregister GST",
+                    "gst_number": "",
+                    "pan_number": "12333AGHB",
+                    "basis_of_target": "Monthly",
+                    "monthly_starting_day": 8,
+                    "area_id": null,
+                    "registration_number": null,
+                    "created_at": "2020-03-15T02:18:12.000000Z",
+                    "updated_at": "2020-09-28T06:45:49.000000Z",
+                    "deleted_at": null
+                },
+                "orderstatuses": [
+                    {
+                        "id": 1,
+                        "name": "Placed",
+                        "css_class_name": "text-warning",
+                        "created_at": "2020-09-09T12:31:11.000000Z",
+                        "updated_at": "2020-09-11T13:41:38.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 10,
+                            "orderstatus_id": 1,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "05:57:05"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "In Review/Invoice Dept",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-16T17:49:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 10,
+                            "orderstatus_id": 3,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:28:39"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "Shipment Created",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-11T13:42:28.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 10,
+                            "orderstatus_id": 4,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:29:39"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "Delivered",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:57.000000Z",
+                        "updated_at": "2020-09-11T13:42:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 10,
+                            "orderstatus_id": 5,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "06:00:11"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "Invoice Generated",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-16T17:28:01.000000Z",
+                        "updated_at": "2020-09-16T17:28:13.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 10,
+                            "orderstatus_id": 8,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:28:53"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "organization_id": 5,
+                "otp": null,
+                "customer_id": 1,
+                "salesagent_id": 1,
+                "item_total_amount": 300,
+                "discount_amount": 0,
+                "billable_amount": 300,
+                "date": "2020-09-28",
+                "user_id": null,
+                "order_no": "ORD-178",
+                "orderstatus_id": 4,
+                "deliveryagent_id": 1,
+                "is_deleted": "N",
+                "created_at": "2020-09-28T05:58:00.000000Z",
+                "updated_at": "2020-09-28T11:29:39.000000Z",
+                "deleted_at": null,
+                "is_organization": "yes",
+                "is_customer": "yes",
+                "order_status": "Placed",
+                "orderstatus": {
+                    "id": 8,
+                    "name": "Invoice Generated",
+                    "css_class_name": "text-success",
+                    "created_at": "2020-09-16T17:28:01.000000Z",
+                    "updated_at": "2020-09-16T17:28:13.000000Z",
+                    "deleted_at": null,
+                    "pivot": {
+                        "order_id": 11,
+                        "orderstatus_id": 8,
+                        "curr_date": "2020-09-28",
+                        "curr_time": "11:28:29"
+                    }
+                },
+                "customer": {
+                    "id": 1,
+                    "contactpersonsname": "Sahoo",
+                    "companyname": "sahoo companies",
+                    "displayname": "sahoo companies",
+                    "email": "sahoo@gmail.com",
+                    "contactpersonnumber": "8520369748",
+                    "companyphone": "8745210202",
+                    "gst_treatment": "Unregister GST",
+                    "gstin": null,
+                    "addressline1": "kolkata",
+                    "addressline2": null,
+                    "area_id": 21,
+                    "city_id": 3,
+                    "postalcode_id": 1,
+                    "customer_code": "1601042221",
+                    "status": "Active",
+                    "salesagent_id": 1,
+                    "is_deleted": "No",
+                    "latitude": null,
+                    "longitude": null,
+                    "created_at": "2020-09-25T19:27:01.000000Z",
+                    "updated_at": "2020-09-25T19:27:01.000000Z",
+                    "deleted_at": null
+                },
+                "organization": {
+                    "id": 5,
+                    "name": "ITC",
+                    "closing_day": 750,
+                    "address1": "kolkata Sonarpur",
+                    "address2": null,
+                    "mobile": "8910300747",
+                    "email": "itc@gmail.com",
+                    "logo": "1588779956.png",
+                    "city_id": 3,
+                    "postal_code": "7412036955",
+                    "gst_treatment": "Unregister GST",
+                    "gst_number": "",
+                    "pan_number": "12333AGHB",
+                    "basis_of_target": "Monthly",
+                    "monthly_starting_day": 8,
+                    "area_id": null,
+                    "registration_number": null,
+                    "created_at": "2020-03-15T02:18:12.000000Z",
+                    "updated_at": "2020-09-28T06:45:49.000000Z",
+                    "deleted_at": null
+                },
+                "orderstatuses": [
+                    {
+                        "id": 1,
+                        "name": "Placed",
+                        "css_class_name": "text-warning",
+                        "created_at": "2020-09-09T12:31:11.000000Z",
+                        "updated_at": "2020-09-11T13:41:38.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 11,
+                            "orderstatus_id": 1,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "05:58:00"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "In Review/Invoice Dept",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-16T17:49:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 11,
+                            "orderstatus_id": 3,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:28:14"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "Shipment Created",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-11T13:42:28.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 11,
+                            "orderstatus_id": 4,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:29:39"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "Delivered",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:57.000000Z",
+                        "updated_at": "2020-09-11T13:42:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 11,
+                            "orderstatus_id": 5,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "09:00:43"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "Invoice Generated",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-16T17:28:01.000000Z",
+                        "updated_at": "2020-09-16T17:28:13.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 11,
+                            "orderstatus_id": 8,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:28:29"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "organization_id": 5,
+                "otp": null,
+                "customer_id": 1,
+                "salesagent_id": 1,
+                "item_total_amount": 4150,
+                "discount_amount": 0,
+                "billable_amount": 4150,
+                "date": "2020-09-28",
+                "user_id": null,
+                "order_no": "ORD-9429",
+                "orderstatus_id": 4,
+                "deliveryagent_id": 1,
+                "is_deleted": "N",
+                "created_at": "2020-09-28T06:02:08.000000Z",
+                "updated_at": "2020-09-28T11:34:52.000000Z",
+                "deleted_at": null,
+                "is_organization": "yes",
+                "is_customer": "yes",
+                "order_status": "Placed",
+                "orderstatus": {
+                    "id": 8,
+                    "name": "Invoice Generated",
+                    "css_class_name": "text-success",
+                    "created_at": "2020-09-16T17:28:01.000000Z",
+                    "updated_at": "2020-09-16T17:28:13.000000Z",
+                    "deleted_at": null,
+                    "pivot": {
+                        "order_id": 12,
+                        "orderstatus_id": 8,
+                        "curr_date": "2020-09-28",
+                        "curr_time": "11:33:36"
+                    }
+                },
+                "customer": {
+                    "id": 1,
+                    "contactpersonsname": "Sahoo",
+                    "companyname": "sahoo companies",
+                    "displayname": "sahoo companies",
+                    "email": "sahoo@gmail.com",
+                    "contactpersonnumber": "8520369748",
+                    "companyphone": "8745210202",
+                    "gst_treatment": "Unregister GST",
+                    "gstin": null,
+                    "addressline1": "kolkata",
+                    "addressline2": null,
+                    "area_id": 21,
+                    "city_id": 3,
+                    "postalcode_id": 1,
+                    "customer_code": "1601042221",
+                    "status": "Active",
+                    "salesagent_id": 1,
+                    "is_deleted": "No",
+                    "latitude": null,
+                    "longitude": null,
+                    "created_at": "2020-09-25T19:27:01.000000Z",
+                    "updated_at": "2020-09-25T19:27:01.000000Z",
+                    "deleted_at": null
+                },
+                "organization": {
+                    "id": 5,
+                    "name": "ITC",
+                    "closing_day": 750,
+                    "address1": "kolkata Sonarpur",
+                    "address2": null,
+                    "mobile": "8910300747",
+                    "email": "itc@gmail.com",
+                    "logo": "1588779956.png",
+                    "city_id": 3,
+                    "postal_code": "7412036955",
+                    "gst_treatment": "Unregister GST",
+                    "gst_number": "",
+                    "pan_number": "12333AGHB",
+                    "basis_of_target": "Monthly",
+                    "monthly_starting_day": 8,
+                    "area_id": null,
+                    "registration_number": null,
+                    "created_at": "2020-03-15T02:18:12.000000Z",
+                    "updated_at": "2020-09-28T06:45:49.000000Z",
+                    "deleted_at": null
+                },
+                "orderstatuses": [
+                    {
+                        "id": 1,
+                        "name": "Placed",
+                        "css_class_name": "text-warning",
+                        "created_at": "2020-09-09T12:31:11.000000Z",
+                        "updated_at": "2020-09-11T13:41:38.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 12,
+                            "orderstatus_id": 1,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "06:02:08"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "In Review/Invoice Dept",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-16T17:49:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 12,
+                            "orderstatus_id": 3,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:33:01"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "Shipment Created",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-11T13:42:28.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 12,
+                            "orderstatus_id": 4,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:34:52"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "Delivered",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:57.000000Z",
+                        "updated_at": "2020-09-11T13:42:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 12,
+                            "orderstatus_id": 5,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "10:38:40"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "Invoice Generated",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-16T17:28:01.000000Z",
+                        "updated_at": "2020-09-16T17:28:13.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 12,
+                            "orderstatus_id": 8,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:33:36"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "organization_id": 5,
+                "otp": null,
+                "customer_id": 1,
+                "salesagent_id": 1,
+                "item_total_amount": 4950,
+                "discount_amount": 0,
+                "billable_amount": 4950,
+                "date": "2020-09-28",
+                "user_id": null,
+                "order_no": "ORD-7417",
+                "orderstatus_id": 4,
+                "deliveryagent_id": 1,
+                "is_deleted": "N",
+                "created_at": "2020-09-28T06:02:38.000000Z",
+                "updated_at": "2020-09-28T11:34:52.000000Z",
+                "deleted_at": null,
+                "is_organization": "yes",
+                "is_customer": "yes",
+                "order_status": "Placed",
+                "orderstatus": {
+                    "id": 8,
+                    "name": "Invoice Generated",
+                    "css_class_name": "text-success",
+                    "created_at": "2020-09-16T17:28:01.000000Z",
+                    "updated_at": "2020-09-16T17:28:13.000000Z",
+                    "deleted_at": null,
+                    "pivot": {
+                        "order_id": 13,
+                        "orderstatus_id": 8,
+                        "curr_date": "2020-09-28",
+                        "curr_time": "11:34:02"
+                    }
+                },
+                "customer": {
+                    "id": 1,
+                    "contactpersonsname": "Sahoo",
+                    "companyname": "sahoo companies",
+                    "displayname": "sahoo companies",
+                    "email": "sahoo@gmail.com",
+                    "contactpersonnumber": "8520369748",
+                    "companyphone": "8745210202",
+                    "gst_treatment": "Unregister GST",
+                    "gstin": null,
+                    "addressline1": "kolkata",
+                    "addressline2": null,
+                    "area_id": 21,
+                    "city_id": 3,
+                    "postalcode_id": 1,
+                    "customer_code": "1601042221",
+                    "status": "Active",
+                    "salesagent_id": 1,
+                    "is_deleted": "No",
+                    "latitude": null,
+                    "longitude": null,
+                    "created_at": "2020-09-25T19:27:01.000000Z",
+                    "updated_at": "2020-09-25T19:27:01.000000Z",
+                    "deleted_at": null
+                },
+                "organization": {
+                    "id": 5,
+                    "name": "ITC",
+                    "closing_day": 750,
+                    "address1": "kolkata Sonarpur",
+                    "address2": null,
+                    "mobile": "8910300747",
+                    "email": "itc@gmail.com",
+                    "logo": "1588779956.png",
+                    "city_id": 3,
+                    "postal_code": "7412036955",
+                    "gst_treatment": "Unregister GST",
+                    "gst_number": "",
+                    "pan_number": "12333AGHB",
+                    "basis_of_target": "Monthly",
+                    "monthly_starting_day": 8,
+                    "area_id": null,
+                    "registration_number": null,
+                    "created_at": "2020-03-15T02:18:12.000000Z",
+                    "updated_at": "2020-09-28T06:45:49.000000Z",
+                    "deleted_at": null
+                },
+                "orderstatuses": [
+                    {
+                        "id": 1,
+                        "name": "Placed",
+                        "css_class_name": "text-warning",
+                        "created_at": "2020-09-09T12:31:11.000000Z",
+                        "updated_at": "2020-09-11T13:41:38.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 13,
+                            "orderstatus_id": 1,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "06:02:38"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "In Review/Invoice Dept",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-16T17:49:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 13,
+                            "orderstatus_id": 3,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:33:49"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "Shipment Created",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-11T13:42:28.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 13,
+                            "orderstatus_id": 4,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:34:52"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "Delivered",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:57.000000Z",
+                        "updated_at": "2020-09-11T13:42:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 13,
+                            "orderstatus_id": 5,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:39:26"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "Invoice Generated",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-16T17:28:01.000000Z",
+                        "updated_at": "2020-09-16T17:28:13.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 13,
+                            "orderstatus_id": 8,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:34:02"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "organization_id": 5,
+                "otp": null,
+                "customer_id": 1,
+                "salesagent_id": 2,
+                "item_total_amount": 1300,
+                "discount_amount": 0,
+                "billable_amount": 1300,
+                "date": "2020-09-28",
+                "user_id": null,
+                "order_no": "ORD-5165",
+                "orderstatus_id": 4,
+                "deliveryagent_id": 1,
+                "is_deleted": "N",
+                "created_at": "2020-09-28T06:39:37.000000Z",
+                "updated_at": "2020-09-28T12:14:26.000000Z",
+                "deleted_at": null,
+                "is_organization": "yes",
+                "is_customer": "yes",
+                "order_status": "Placed",
+                "orderstatus": {
+                    "id": 8,
+                    "name": "Invoice Generated",
+                    "css_class_name": "text-success",
+                    "created_at": "2020-09-16T17:28:01.000000Z",
+                    "updated_at": "2020-09-16T17:28:13.000000Z",
+                    "deleted_at": null,
+                    "pivot": {
+                        "order_id": 14,
+                        "orderstatus_id": 8,
+                        "curr_date": "2020-09-28",
+                        "curr_time": "12:13:21"
+                    }
+                },
+                "customer": {
+                    "id": 1,
+                    "contactpersonsname": "Sahoo",
+                    "companyname": "sahoo companies",
+                    "displayname": "sahoo companies",
+                    "email": "sahoo@gmail.com",
+                    "contactpersonnumber": "8520369748",
+                    "companyphone": "8745210202",
+                    "gst_treatment": "Unregister GST",
+                    "gstin": null,
+                    "addressline1": "kolkata",
+                    "addressline2": null,
+                    "area_id": 21,
+                    "city_id": 3,
+                    "postalcode_id": 1,
+                    "customer_code": "1601042221",
+                    "status": "Active",
+                    "salesagent_id": 1,
+                    "is_deleted": "No",
+                    "latitude": null,
+                    "longitude": null,
+                    "created_at": "2020-09-25T19:27:01.000000Z",
+                    "updated_at": "2020-09-25T19:27:01.000000Z",
+                    "deleted_at": null
+                },
+                "organization": {
+                    "id": 5,
+                    "name": "ITC",
+                    "closing_day": 750,
+                    "address1": "kolkata Sonarpur",
+                    "address2": null,
+                    "mobile": "8910300747",
+                    "email": "itc@gmail.com",
+                    "logo": "1588779956.png",
+                    "city_id": 3,
+                    "postal_code": "7412036955",
+                    "gst_treatment": "Unregister GST",
+                    "gst_number": "",
+                    "pan_number": "12333AGHB",
+                    "basis_of_target": "Monthly",
+                    "monthly_starting_day": 8,
+                    "area_id": null,
+                    "registration_number": null,
+                    "created_at": "2020-03-15T02:18:12.000000Z",
+                    "updated_at": "2020-09-28T06:45:49.000000Z",
+                    "deleted_at": null
+                },
+                "orderstatuses": [
+                    {
+                        "id": 1,
+                        "name": "Placed",
+                        "css_class_name": "text-warning",
+                        "created_at": "2020-09-09T12:31:11.000000Z",
+                        "updated_at": "2020-09-11T13:41:38.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 14,
+                            "orderstatus_id": 1,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "06:39:37"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "In Review/Invoice Dept",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-16T17:49:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 14,
+                            "orderstatus_id": 3,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "12:13:08"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "Shipment Created",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-11T13:42:28.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 14,
+                            "orderstatus_id": 4,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "12:14:26"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "Delivered",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:57.000000Z",
+                        "updated_at": "2020-09-11T13:42:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 14,
+                            "orderstatus_id": 5,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "11:38:08"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "Invoice Generated",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-16T17:28:01.000000Z",
+                        "updated_at": "2020-09-16T17:28:13.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 14,
+                            "orderstatus_id": 8,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "12:13:21"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "organization_id": 5,
+                "otp": null,
+                "customer_id": 1,
+                "salesagent_id": 2,
+                "item_total_amount": 3750,
+                "discount_amount": 0,
+                "billable_amount": 3750,
+                "date": "2020-09-28",
+                "user_id": null,
+                "order_no": "ORD-1363",
+                "orderstatus_id": 4,
+                "deliveryagent_id": 1,
+                "is_deleted": "N",
+                "created_at": "2020-09-28T06:40:48.000000Z",
+                "updated_at": "2020-09-28T12:14:26.000000Z",
+                "deleted_at": null,
+                "is_organization": "yes",
+                "is_customer": "yes",
+                "order_status": "Placed",
+                "orderstatus": {
+                    "id": 8,
+                    "name": "Invoice Generated",
+                    "css_class_name": "text-success",
+                    "created_at": "2020-09-16T17:28:01.000000Z",
+                    "updated_at": "2020-09-16T17:28:13.000000Z",
+                    "deleted_at": null,
+                    "pivot": {
+                        "order_id": 15,
+                        "orderstatus_id": 8,
+                        "curr_date": "2020-09-28",
+                        "curr_time": "12:13:46"
+                    }
+                },
+                "customer": {
+                    "id": 1,
+                    "contactpersonsname": "Sahoo",
+                    "companyname": "sahoo companies",
+                    "displayname": "sahoo companies",
+                    "email": "sahoo@gmail.com",
+                    "contactpersonnumber": "8520369748",
+                    "companyphone": "8745210202",
+                    "gst_treatment": "Unregister GST",
+                    "gstin": null,
+                    "addressline1": "kolkata",
+                    "addressline2": null,
+                    "area_id": 21,
+                    "city_id": 3,
+                    "postalcode_id": 1,
+                    "customer_code": "1601042221",
+                    "status": "Active",
+                    "salesagent_id": 1,
+                    "is_deleted": "No",
+                    "latitude": null,
+                    "longitude": null,
+                    "created_at": "2020-09-25T19:27:01.000000Z",
+                    "updated_at": "2020-09-25T19:27:01.000000Z",
+                    "deleted_at": null
+                },
+                "organization": {
+                    "id": 5,
+                    "name": "ITC",
+                    "closing_day": 750,
+                    "address1": "kolkata Sonarpur",
+                    "address2": null,
+                    "mobile": "8910300747",
+                    "email": "itc@gmail.com",
+                    "logo": "1588779956.png",
+                    "city_id": 3,
+                    "postal_code": "7412036955",
+                    "gst_treatment": "Unregister GST",
+                    "gst_number": "",
+                    "pan_number": "12333AGHB",
+                    "basis_of_target": "Monthly",
+                    "monthly_starting_day": 8,
+                    "area_id": null,
+                    "registration_number": null,
+                    "created_at": "2020-03-15T02:18:12.000000Z",
+                    "updated_at": "2020-09-28T06:45:49.000000Z",
+                    "deleted_at": null
+                },
+                "orderstatuses": [
+                    {
+                        "id": 1,
+                        "name": "Placed",
+                        "css_class_name": "text-warning",
+                        "created_at": "2020-09-09T12:31:11.000000Z",
+                        "updated_at": "2020-09-11T13:41:38.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 15,
+                            "orderstatus_id": 1,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "06:40:49"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "In Review/Invoice Dept",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-16T17:49:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 15,
+                            "orderstatus_id": 3,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "12:13:34"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "Shipment Created",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:44.000000Z",
+                        "updated_at": "2020-09-11T13:42:28.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 15,
+                            "orderstatus_id": 4,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "12:14:26"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "Delivered",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-09T12:31:57.000000Z",
+                        "updated_at": "2020-09-11T13:42:37.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 15,
+                            "orderstatus_id": 5,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "09:05:48"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "Invoice Generated",
+                        "css_class_name": "text-success",
+                        "created_at": "2020-09-16T17:28:01.000000Z",
+                        "updated_at": "2020-09-16T17:28:13.000000Z",
+                        "deleted_at": null,
+                        "pivot": {
+                            "order_id": 15,
+                            "orderstatus_id": 8,
+                            "curr_date": "2020-09-28",
+                            "curr_time": "12:13:46"
+                        }
+                    }
+                ]
+            }
+        ],
+        "total_orders": 14,
+        "pending_orders": 6,
+        "completed_orders": 0
+    },
+    "message": ""
+}

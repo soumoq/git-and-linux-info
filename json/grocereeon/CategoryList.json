@@ -1,0 +1,345 @@
+{
+    "success": true,
+    "data": [
+        {
+            "category_name": "Foodgrain, Oil & Spices",
+            "photo": "1605600892.png",
+            "subcategories": [
+                {
+                    "id": 8,
+                    "parent_id": 1,
+                    "name": "Pulses or Dal, Chunks & Bori",
+                    "slug": "pulses-dal-chunks-bori",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 9,
+                    "parent_id": 1,
+                    "name": "Atta & Flours",
+                    "slug": "atta-flours",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 10,
+                    "parent_id": 1,
+                    "name": "Rice & Grains",
+                    "slug": "rice-n-grains",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 11,
+                    "parent_id": 1,
+                    "name": "Dry Fruits & Nuts",
+                    "slug": "dry-fruits-n-nuts",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 12,
+                    "parent_id": 1,
+                    "name": "Edible Oils , Ghee & Vanaspati",
+                    "slug": "edible-oils-ghee-vanaspati",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 13,
+                    "parent_id": 1,
+                    "name": "Spices",
+                    "slug": "spices",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 14,
+                    "parent_id": 1,
+                    "name": "Salt, Sugar & Jaggery",
+                    "slug": "salt-sugar-jaggery",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "category_name": "Bakes-Cakes & Snacks",
+            "photo": "1605600119.jpg",
+            "subcategories": [
+                {
+                    "id": 15,
+                    "parent_id": 2,
+                    "name": "Biscuits & Cookies",
+                    "slug": "biscuits-cookies",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 16,
+                    "parent_id": 2,
+                    "name": "Noodles & Pasta",
+                    "slug": "noodles-pasta",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "category_name": "Bevarages & Drinks",
+            "photo": "1605600308.png",
+            "subcategories": [
+                {
+                    "id": 17,
+                    "parent_id": 3,
+                    "name": "Health & Energy Drinks",
+                    "slug": "health-energy-drinks",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 18,
+                    "parent_id": 3,
+                    "name": "Fruit Juice",
+                    "slug": "fruit-juice",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 19,
+                    "parent_id": 3,
+                    "name": "Tea & Coffee",
+                    "slug": "tea-coffee",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 20,
+                    "parent_id": 3,
+                    "name": "Dairy",
+                    "slug": "dairy",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "category_name": "Vegetables & Fruits ",
+            "photo": "1605600236.jpg",
+            "subcategories": [
+                {
+                    "id": 21,
+                    "parent_id": 4,
+                    "name": "Vegetables",
+                    "slug": "vegetables",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 22,
+                    "parent_id": 4,
+                    "name": "Fruits",
+                    "slug": "fruits",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "category_name": "Personal Care & Beauty",
+            "photo": "1605600308.png",
+            "subcategories": [
+                {
+                    "id": 23,
+                    "parent_id": 5,
+                    "name": "Oral Care",
+                    "slug": "oral-care",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 24,
+                    "parent_id": 5,
+                    "name": "Hair Care",
+                    "slug": "hair-care",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 25,
+                    "parent_id": 5,
+                    "name": "Body Care",
+                    "slug": "body-care",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 26,
+                    "parent_id": 5,
+                    "name": "Face Care",
+                    "slug": "face-care",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "category_name": "Home Care & Cleaners",
+            "photo": "1605600543.jpg",
+            "subcategories": [
+                {
+                    "id": 27,
+                    "parent_id": 6,
+                    "name": "Bathroom, Kitchen & Floor Cleaner",
+                    "slug": "bathroom-kitchen-floor-cleaner",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 28,
+                    "parent_id": 6,
+                    "name": "Detergents, Dishwash, Bars & Liquid",
+                    "slug": "detergents-dishwash-bars-liquids",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:17.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 29,
+                    "parent_id": 6,
+                    "name": "Insect Repellents",
+                    "slug": "insect-repellents",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:18.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 30,
+                    "parent_id": 6,
+                    "name": "Handwash",
+                    "slug": "handwash",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:18.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 31,
+                    "parent_id": 6,
+                    "name": "Air Fresheners",
+                    "slug": "air-fresheners",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:18.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "category_name": "Fish Meat & Egg",
+            "photo": "default.png",
+            "subcategories": [
+                {
+                    "id": 32,
+                    "parent_id": 7,
+                    "name": "Fish",
+                    "slug": "fish",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:18.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 33,
+                    "parent_id": 7,
+                    "name": "Meat",
+                    "slug": "meat",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:18.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                },
+                {
+                    "id": 34,
+                    "parent_id": 7,
+                    "name": "Egg",
+                    "slug": "egg",
+                    "photo": "default.png",
+                    "is_featured": "No",
+                    "created_at": "2020-12-03T16:49:18.000000Z",
+                    "updated_at": null,
+                    "deleted_at": null
+                }
+            ]
+        }
+    ],
+    "message": ""
+}

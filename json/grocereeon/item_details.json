@@ -1,0 +1,118 @@
+{
+    "success": true,
+    "data": {
+        "id": 5,
+        "stockist_id": 1,
+        "otp": null,
+        "date": "2020-11-16",
+        "user_id": 23,
+        "useraddress_id": 7,
+        "order_no": "GS-1605510232",
+        "unique_order_no": "231605510232",
+        "orderstatus_id": 1,
+        "total": 50,
+        "delivery_charge": 0,
+        "discount": 0,
+        "billable_amount": 50,
+        "payment_mode": "Offline",
+        "is_paid": "No",
+        "deliveryagent_id": null,
+        "pickup_date": null,
+        "pickup_time": null,
+        "is_deleted": "N",
+        "created_at": "2020-11-16T12:33:52.000000Z",
+        "updated_at": "2020-11-16T12:33:52.000000Z",
+        "deleted_at": null,
+        "user": {
+            "id": 23,
+            "stockist_id": null,
+            "role": "User",
+            "otp": null,
+            "first_name": "Arka",
+            "last_name": "Banerjee",
+            "email": "arkacul.1092@gmail.com",
+            "phone": "9038976826",
+            "created_at": "2020-11-16T07:01:08.000000Z",
+            "updated_at": "2020-11-16T07:01:08.000000Z",
+            "deleted_at": null
+        },
+        "useraddress": {
+            "id": 7,
+            "user_id": 23,
+            "type": "Home",
+            "name": "Arka Banerjee",
+            "mobile": "09038976826",
+            "addressline_1": "59/2, Maharaja Tagore Rd",
+            "addressline_2": "Near Deshapriya Park",
+            "postalcode": "700031",
+            "landmark": "WEST BENGAL",
+            "created_at": "2020-11-16T12:33:41.000000Z",
+            "updated_at": "2020-11-16T12:33:41.000000Z",
+            "deleted_at": null
+        },
+        "orderstatus": {
+            "id": 1,
+            "name": "Placed",
+            "css_class_name": "text-warning",
+            "created_at": "2020-09-09T12:31:11.000000Z",
+            "updated_at": "2020-09-11T13:41:38.000000Z",
+            "deleted_at": null
+        }
+    },
+    "item_array": [
+        {
+            "id": 6,
+            "product_id": 102,
+            "productvariant_id": 6,
+            "stockist_id": 1,
+            "current_stock": 2,
+            "selling_price": 50,
+            "is_active": "Yes",
+            "created_at": "2020-11-12T10:10:40.000000Z",
+            "updated_at": "2020-11-12T10:10:40.000000Z",
+            "deleted_at": null,
+            "product": {
+                "id": 102,
+                "productcategory_id": 156,
+                "name": "Lifeboy2",
+                "description": null,
+                "photo": "a.jpg",
+                "gst_percent": "5",
+                "hsn_code": "0011",
+                "slug": "lifeboy2",
+                "sku": "Sku001",
+                "is_approved": "Yes",
+                "is_featured": "No",
+                "added_by_organization_id": null,
+                "created_at": "2020-11-12T14:48:57.000000Z",
+                "updated_at": "2020-11-12T15:30:21.000000Z",
+                "deleted_at": null
+            },
+            "productvariant": {
+                "id": 6,
+                "product_id": 102,
+                "variant_name": "200 Gm",
+                "quantity": null,
+                "price": 20,
+                "default_price": 25,
+                "weight": 200,
+                "vol": 200,
+                "created_at": "2020-11-12T14:50:52.000000Z",
+                "updated_at": "2020-11-12T14:50:52.000000Z",
+                "deleted_at": null
+            }
+        }
+    ],
+    "items_orderstockistproductvariant": [
+        {
+            "id": 5,
+            "order_id": 5,
+            "stockistproductvariant_id": 6,
+            "quantity": 1,
+            "unit_price": 50,
+            "created_at": "2020-11-16T12:33:52.000000Z",
+            "updated_at": "2020-11-16T12:33:52.000000Z",
+            "deleted_at": null
+        }
+    ]
+}

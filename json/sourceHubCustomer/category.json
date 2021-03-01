@@ -1,0 +1,105 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "parent_id": null,
+            "name": "Dish wash",
+            "photo": "1604907305.jpg",
+            "created_at": "2020-11-09T13:05:05.000000Z",
+            "updated_at": "2020-11-09T13:05:05.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "parent_id": null,
+            "name": "Detergents",
+            "photo": "1604907333.jpeg",
+            "created_at": "2020-11-09T13:05:33.000000Z",
+            "updated_at": "2020-11-09T13:05:33.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 3,
+            "parent_id": null,
+            "name": "Tea ,Coffee and Beverages",
+            "photo": "1604907359.jpg",
+            "created_at": "2020-11-09T13:05:59.000000Z",
+            "updated_at": "2020-11-14T16:32:46.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 4,
+            "parent_id": null,
+            "name": "Biscuts",
+            "photo": "1604907393.jpg",
+            "created_at": "2020-11-09T13:06:33.000000Z",
+            "updated_at": "2020-11-09T13:06:33.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 5,
+            "parent_id": null,
+            "name": "Personal care",
+            "photo": "1604907418.jpg",
+            "created_at": "2020-11-09T13:06:58.000000Z",
+            "updated_at": "2020-11-09T13:06:58.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 6,
+            "parent_id": null,
+            "name": "Flours",
+            "photo": "1604911330.jpeg",
+            "created_at": "2020-11-09T14:12:10.000000Z",
+            "updated_at": "2020-11-09T14:12:10.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 7,
+            "parent_id": null,
+            "name": "Spices",
+            "photo": "1605345313.jpg",
+            "created_at": "2020-11-09T14:13:20.000000Z",
+            "updated_at": "2020-11-14T14:45:13.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 8,
+            "parent_id": null,
+            "name": "Masalas",
+            "photo": "1604916615.jpg",
+            "created_at": "2020-11-09T15:40:15.000000Z",
+            "updated_at": "2020-11-09T15:40:15.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 9,
+            "parent_id": null,
+            "name": "Toilet and Floor Cleaners",
+            "photo": "1605343583.jpg",
+            "created_at": "2020-11-14T14:16:23.000000Z",
+            "updated_at": "2020-11-14T14:16:23.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 10,
+            "parent_id": null,
+            "name": "Ghee",
+            "photo": "1605356688.jpg",
+            "created_at": "2020-11-14T17:54:48.000000Z",
+            "updated_at": "2020-11-14T17:54:48.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 11,
+            "parent_id": null,
+            "name": "Packed Food",
+            "photo": "1605356817.jpg",
+            "created_at": "2020-11-14T17:56:57.000000Z",
+            "updated_at": "2020-11-14T17:56:57.000000Z",
+            "deleted_at": null
+        }
+    ],
+    "message": ""
+}

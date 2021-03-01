@@ -1,0 +1,164 @@
+{
+    "success": true,
+    "data": [
+        {
+            "product": {
+                "id": 1,
+                "product_id": 1,
+                "organization_id": 5,
+                "current_stock": 1100,
+                "warehouse_id": 6,
+                "rack_id": 15,
+                "hsn_code": "hjj",
+                "is_active": "Yes",
+                "created_at": "2020-11-11T12:31:05.000000Z",
+                "updated_at": "2020-12-14T13:41:59.000000Z",
+                "deleted_at": null,
+                "product": {
+                    "id": 1,
+                    "productcategory_id": 1,
+                    "name": "SUDHA MILK",
+                    "measurementtype_id": 6,
+                    "photo": "1607932322.png",
+                    "price_per_unit": 20,
+                    "weight": "500",
+                    "vol": null,
+                    "gst_percent": "10",
+                    "hsn_code": "HSN12",
+                    "slug": "sudha-milk",
+                    "added_by_organization_id": 5,
+                    "sku": "SKU89",
+                    "is_approved": "Yes",
+                    "description": null,
+                    "created_at": "2020-12-14T13:22:02.000000Z",
+                    "updated_at": "2020-12-14T13:22:02.000000Z",
+                    "deleted_at": null,
+                    "productcategory": {
+                        "id": 1,
+                        "parent_id": null,
+                        "name": "COW MILK",
+                        "photo": "1607932213.png",
+                        "created_at": "2020-12-14T13:20:13.000000Z",
+                        "updated_at": "2020-12-14T13:20:13.000000Z",
+                        "deleted_at": null
+                    },
+                    "measurementtype": {
+                        "id": 6,
+                        "name": "Litre",
+                        "created_at": "2020-09-30T15:48:05.000000Z",
+                        "updated_at": null,
+                        "deleted_at": null
+                    }
+                }
+            },
+            "productpricings": [
+                {
+                    "id": 1,
+                    "product_id": 1,
+                    "buying_qty": 1,
+                    "price": 20,
+                    "organization_id": 5,
+                    "organizationproduct_id": 1,
+                    "created_at": "2020-12-14T13:28:17.000000Z",
+                    "updated_at": "2020-12-14T13:28:17.000000Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": 2,
+                    "product_id": 1,
+                    "buying_qty": 2,
+                    "price": 30,
+                    "organization_id": 5,
+                    "organizationproduct_id": 1,
+                    "created_at": "2020-12-14T13:28:27.000000Z",
+                    "updated_at": "2020-12-14T13:28:27.000000Z",
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "product": {
+                "id": 2,
+                "product_id": 2,
+                "organization_id": 5,
+                "current_stock": 100,
+                "warehouse_id": 6,
+                "rack_id": 16,
+                "hsn_code": "HSN90",
+                "is_active": "Yes",
+                "created_at": "2020-11-11T12:33:39.000000Z",
+                "updated_at": "2020-12-14T13:44:59.000000Z",
+                "deleted_at": null,
+                "product": {
+                    "id": 2,
+                    "productcategory_id": 1,
+                    "name": "SUDHA TRIM MILK",
+                    "measurementtype_id": 6,
+                    "photo": "1607933652.png",
+                    "price_per_unit": 10,
+                    "weight": "1000",
+                    "vol": 1000,
+                    "gst_percent": "10",
+                    "hsn_code": "HSN09",
+                    "slug": "sudha-trim-milk",
+                    "added_by_organization_id": 5,
+                    "sku": "SKU10",
+                    "is_approved": "Yes",
+                    "description": null,
+                    "created_at": "2020-12-14T13:44:12.000000Z",
+                    "updated_at": "2020-12-14T13:44:12.000000Z",
+                    "deleted_at": null,
+                    "productcategory": {
+                        "id": 1,
+                        "parent_id": null,
+                        "name": "COW MILK",
+                        "photo": "1607932213.png",
+                        "created_at": "2020-12-14T13:20:13.000000Z",
+                        "updated_at": "2020-12-14T13:20:13.000000Z",
+                        "deleted_at": null
+                    },
+                    "measurementtype": {
+                        "id": 6,
+                        "name": "Litre",
+                        "created_at": "2020-09-30T15:48:05.000000Z",
+                        "updated_at": null,
+                        "deleted_at": null
+                    }
+                }
+            },
+            "productpricings": [
+                {
+                    "id": 3,
+                    "product_id": 2,
+                    "buying_qty": 1,
+                    "price": 8,
+                    "organization_id": 5,
+                    "organizationproduct_id": 2,
+                    "created_at": "2020-12-14T13:45:20.000000Z",
+                    "updated_at": "2020-12-14T13:45:20.000000Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": 4,
+                    "product_id": 2,
+                    "buying_qty": 3,
+                    "price": 24,
+                    "organization_id": 5,
+                    "organizationproduct_id": 2,
+                    "created_at": "2020-12-14T13:45:37.000000Z",
+                    "updated_at": "2020-12-14T13:45:37.000000Z",
+                    "deleted_at": null
+                }
+            ]
+        }
+    ],
+    "productcategory": {
+        "id": 1,
+        "parent_id": null,
+        "name": "COW MILK",
+        "photo": "1607932213.png",
+        "created_at": "2020-12-14T13:20:13.000000Z",
+        "updated_at": "2020-12-14T13:20:13.000000Z",
+        "deleted_at": null
+    }
+}

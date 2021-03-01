@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "data": [
+        {
+            "order": {
+                "id": 11,
+                "stockist_id": 1,
+                "otp": 4085,
+                "date": "2020-11-24",
+                "user_id": 31,
+                "useraddress_id": 22,
+                "order_no": "GS-1606204025",
+                "unique_order_no": "311606204025",
+                "orderstatus_id": 6,
+                "total": 100,
+                "delivery_charge": 0,
+                "discount": 0,
+                "billable_amount": 100,
+                "payment_mode": "Offline",
+                "is_paid": "No",
+                "deliveryagent_id": 2,
+                "pickup_date": "2020-11-24",
+                "pickup_time": "14:20",
+                "is_deleted": "N",
+                "created_at": "2020-11-24T13:17:05.000000Z",
+                "updated_at": "2020-12-04T12:55:41.000000Z",
+                "deleted_at": null,
+                "user": {
+                    "id": 31,
+                    "stockist_id": null,
+                    "role": "User",
+                    "otp": null,
+                    "first_name": "Anindya",
+                    "last_name": "Dhole",
+                    "email": "anindya.rony@gmail.com",
+                    "phone": "07003383091",
+                    "created_at": "2020-11-24T07:44:36.000000Z",
+                    "updated_at": "2020-11-24T07:44:36.000000Z",
+                    "deleted_at": null
+                },
+                "useraddress": {
+                    "id": 22,
+                    "user_id": 31,
+                    "type": "Home",
+                    "name": "Anindya Dhole",
+                    "mobile": "07003383091",
+                    "addressline_1": "B 14 Sreepally Tantipara, Dankuni, Hooghly",
+                    "addressline_2": "Dankuni",
+                    "postalcode_id": 4,
+                    "landmark": "Dumdum",
+                    "latitude": null,
+                    "longitude": null,
+                    "is_default": "No",
+                    "created_at": "2020-11-24T13:15:49.000000Z",
+                    "updated_at": "2020-11-24T13:15:49.000000Z",
+                    "deleted_at": null
+                },
+                "orderstatus": {
+                    "id": 6,
+                    "name": "Delivered",
+                    "css_class_name": "text-danger",
+                    "created_at": "2020-09-09T12:31:57.000000Z",
+                    "updated_at": "2020-11-12T15:54:20.000000Z",
+                    "deleted_at": null
+                }
+            },
+            "items": [
+                {
+                    "id": 2,
+                    "product_id": 1,
+                    "productvariant_id": 2,
+                    "stockist_id": 17,
+                    "current_stock": 9,
+                    "selling_price": 200,
+                    "is_active": "No",
+                    "created_at": "2020-12-03T17:23:45.000000Z",
+                    "updated_at": "2020-12-04T20:14:15.000000Z",
+                    "deleted_at": null,
+                    "product": {
+                        "id": 1,
+                        "productcategory_id": 35,
+                        "name": "Chana Dal (Cholar Dal)",
+                        "description": "Chana Daal or popularly known as Cholar Dal is a staple food in every household. . It contains a sweet mild taste and is nutritious in nature, also, Cholar Dal being a rich anti oxidant, if consumed daily, reduces the risk of blood clots and hardening of arteries",
+                        "photo": "chanadal1.jpg",
+                        "photo2": null,
+                        "photo3": null,
+                        "gst_percent": "5",
+                        "hsn_code": "100001",
+                        "slug": "chana-dal",
+                        "sku": "100001",
+                        "is_approved": "Yes",
+                        "is_featured": "No",
+                        "added_by_organization_id": null,
+                        "created_at": "2020-02-11T13:05:00.000000Z",
+                        "updated_at": "2020-12-04T17:12:33.000000Z",
+                        "deleted_at": null
+                    },
+                    "productvariant": {
+                        "id": 2,
+                        "product_id": 1,
+                        "variant_name": "1 Kg",
+                        "quantity": 1,
+                        "price": 150,
+                        "default_price": 120,
+                        "weight": 1,
+                        "vol": null,
+                        "created_at": "2020-12-03T20:41:23.000000Z",
+                        "updated_at": null,
+                        "deleted_at": null
+                    }
+                }
+            ],
+            "items_orderstockistproductvariant": [
+                {
+                    "id": 24,
+                    "order_id": 11,
+                    "stockistproductvariant_id": 2,
+                    "quantity": 2,
+                    "unit_price": 50,
+                    "created_at": "2020-11-24T13:17:05.000000Z",
+                    "updated_at": "2020-11-24T13:17:05.000000Z",
+                    "deleted_at": null
+                }
+            ]
+        }
+    ]
+}

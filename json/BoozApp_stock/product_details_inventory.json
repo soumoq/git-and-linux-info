@@ -1,0 +1,71 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 3,
+            "productcategory_id": 1,
+            "name": "Tuborg",
+            "slug": "tuborg",
+            "photo": "product1592749525.png",
+            "mark_trending": "no",
+            "mark_exclusive": "no",
+            "created_at": "2020-06-21 14:25:25",
+            "updated_at": "2020-06-21 14:25:25",
+            "deleted_at": null,
+            "productvariants": []
+        },
+        {
+            "id": 4,
+            "productcategory_id": 1,
+            "name": "Kingfisher",
+            "slug": "kingfisher",
+            "photo": "product1592749547.png",
+            "mark_trending": "no",
+            "mark_exclusive": "no",
+            "created_at": "2020-06-21 14:25:47",
+            "updated_at": "2020-06-21 14:26:04",
+            "deleted_at": null,
+            "productvariants": [
+                {
+                    "id": 2,
+                    "product_id": 4,
+                    "name": "Bottle 500 ml",
+                    "slug": "kiggfisher-strong",
+                    "sku": "KST",
+                    "unit_id": 2,
+                    "volume": 600,
+                    "created_at": "2020-06-21 14:36:55",
+                    "updated_at": "2020-10-30 06:47:40",
+                    "deleted_at": null,
+                    "inventory": true
+                },
+                {
+                    "id": 11,
+                    "product_id": 4,
+                    "name": "Bottle 350 ml",
+                    "slug": "350-ml",
+                    "sku": "KF350",
+                    "unit_id": 2,
+                    "volume": 350,
+                    "created_at": "2020-10-30 06:45:51",
+                    "updated_at": "2020-10-30 06:47:14",
+                    "deleted_at": null,
+                    "inventory": false
+                },
+                {
+                    "id": 12,
+                    "product_id": 4,
+                    "name": "Can",
+                    "slug": "can",
+                    "sku": "KFCAN",
+                    "unit_id": 2,
+                    "volume": 500,
+                    "created_at": "2020-10-30 06:46:35",
+                    "updated_at": "2020-10-30 06:46:35",
+                    "deleted_at": null,
+                    "inventory": false
+                }
+            ]
+        }
+    ]
+}

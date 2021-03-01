@@ -1,0 +1,119 @@
+{
+    "success": true,
+    "data": {
+        "productimages": [
+            {
+                "_id": "5fe9b738a4865cc42cc2c80e",
+                "user": "5fe07e82993d2c595cb63f29",
+                "product": "5fe9b738a4865cc42cc2c80d",
+                "image": "1609152312140.jpg",
+                "original_name": "gold3.jpg"
+            }
+        ],
+        "_id": "5fe9b738a4865cc42cc2c80d",
+        "name": "Beautiful Golden Necklace",
+        "description": "The latest Gold Necklace designs available Online at affordable Rates",
+        "user": {
+            "business_name": "Chaganlal ",
+            "otp": null,
+            "license_number": "",
+            "establishment_date": "",
+            "pan_number": "",
+            "registration_certificate": "1610362836554.pdf",
+            "gst_certificate": "1610362836578.pdf",
+            "age": "",
+            "gender": "",
+            "profile_image": "1608622115566.jpg",
+            "banner_image": "1610021454936.webp",
+            "about": null,
+            "address": null,
+            "website": null,
+            "_id": "5fe07e82993d2c595cb63f29",
+            "name": "Chaganlal Jwellery Store",
+            "email": "chaganlal@gmail.com",
+            "mobile_number": "1234567890",
+            "role": "Business",
+            "country": {
+                "_id": "5fcdf2d633edf646096d5427",
+                "short_name": "IN",
+                "name": "India",
+                "code": "91"
+            },
+            "state": {
+                "_id": "5fcdf2fa33edf646096d54c4",
+                "name": "Jharkhand",
+                "country": "5fcdf2d633edf646096d5427",
+                "countryid": 101
+            },
+            "city": {
+                "_id": "5fcdf3fea208394d52e5ee77",
+                "name": "Jamshedpur",
+                "state": "5fcdf2fa33edf646096d54c4"
+            },
+            "signup_method": "Normal",
+            "account_verified": "Yes",
+            "slug": "chaganlal-jewellery-store",
+            "login_status": "online",
+            "impression": 29
+        },
+        "category": {
+            "parent": null,
+            "image": "1608545365165.jpg",
+            "_id": "5fe07455993d2c595cb63f23",
+            "name": "Gold Jewellery",
+            "ancestors": [],
+            "slug": "gold-jewellery"
+        },
+        "subcategory": {
+            "parent": "5fe07455993d2c595cb63f23",
+            "image": "1609143438639.jpg",
+            "_id": "5fe9948ea4865cc42cc2c7e2",
+            "name": "Gold Necklace",
+            "ancestors": [],
+            "slug": "gold-necklace"
+        },
+        "currency": {
+            "_id": "5fbe09ebd26921a448c57c81",
+            "name": "Rupee",
+            "symbol": "₹"
+        },
+        "price": "77500",
+        "slug": "beautiful-golden-necklace"
+    },
+    "relatedproducts": [
+        {
+            "productimages": [
+                {
+                    "_id": "5fe07f0a993d2c595cb63f2d",
+                    "user": "5fe07e82993d2c595cb63f29",
+                    "product": "5fe07f09993d2c595cb63f2c",
+                    "image": "1608548105986.jpg",
+                    "original_name": "gold-jewel.jpg"
+                }
+            ],
+            "_id": "5fe07f09993d2c595cb63f2c",
+            "name": "Yellow Gold alloys",
+            "description": "Its latest collection",
+            "user": "5fe07e82993d2c595cb63f29",
+            "category": "5fe07455993d2c595cb63f23",
+            "subcategory": {
+                "parent": "5fe07455993d2c595cb63f23",
+                "image": "1608545464156.jpg",
+                "_id": "5fe074b8993d2c595cb63f27",
+                "name": "Yellow Gold alloys",
+                "ancestors": [],
+                "slug": "yellow-gold-alloys"
+            },
+            "currency": {
+                "_id": "5fbe09ebd26921a448c57c81",
+                "name": "Rupee",
+                "symbol": "₹",
+                "updated_at": "2020-11-25T07:38:19.413Z",
+                "created_at": "2020-11-25T07:38:19.413Z",
+                "__v": 0
+            },
+            "price": "5000",
+            "slug": "yellow-gold-alloys"
+        }
+    ]
+}

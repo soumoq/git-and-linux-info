@@ -1,0 +1,32 @@
+//https://livedeals.co.in/projects/grocerson/api/stockist/add/offer?stockist_id=1&coupon_code=CODE&discount_percentage&amount=200&offer_text=TEXT&expiry_date=2020/09/23&offer_type=fixed
+
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "stockist_id": 1,
+            "coupon_code": "PUJA10",
+            "discount_percentage": 10,
+            "amount": 200,
+            "offer_text": "Celebrate Season of Puja!",
+            "expiry_date": "2020-09-23",
+            "offer_type": "fixed",
+            "created_at": "2020-09-23T13:56:19.000000Z",
+            "updated_at": "2020-09-24T11:54:47.000000Z"
+        },
+        {
+            "id": 2,
+            "stockist_id": 1,
+            "coupon_code": "CODE",
+            "discount_percentage": null,
+            "amount": 200,
+            "offer_text": "New Offer",
+            "expiry_date": "2020-09-23",
+            "offer_type": "fixed",
+            "created_at": "2020-09-24T08:44:55.000000Z",
+            "updated_at": "2020-09-24T08:44:55.000000Z"
+        }
+    ],
+    "message": ""
+}

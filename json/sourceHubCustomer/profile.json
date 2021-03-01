@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "data": {
+        "id": 3,
+        "contactpersonsname": "Soumo",
+        "companyname": "Arobit",
+        "displayname": null,
+        "email": null,
+        "contactpersonnumber": "7477540540",
+        "companyphone": "7477540540",
+        "gst_treatment": "712560",
+        "gstin": null,
+        "addressline1": "Hooghly",
+        "addressline2": null,
+        "area_id": 15,
+        "city_id": 2,
+        "postalcode_id": 36,
+        "customer_code": null,
+        "status": "Active",
+        "salesagent_id": null,
+        "is_deleted": "No",
+        "latitude": null,
+        "longitude": null,
+        "otp": "968932",
+        "approval": "accepted",
+        "created_at": "2020-11-20T12:09:03.000000Z",
+        "updated_at": "2020-11-27T06:27:32.000000Z",
+        "deleted_at": null
+    },
+    "cartitemscount": 0,
+    "message": ""
+}

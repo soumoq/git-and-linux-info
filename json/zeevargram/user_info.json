@@ -1,0 +1,169 @@
+{
+    "success": true,
+    "data": {
+        "business_name": "Chaganlal Jewellery Store",
+        "otp": null,
+        "license_number": "879654123",
+        "establishment_date": "01/01/2021",
+        "pan_number": "7896541230",
+        "registration_certificate": "1610632475219.jpg",
+        "gst_certificate": "1610632475221.jpg",
+        "profile_image": "1610632361676.jpg",
+        "banner_image": "1610632344111.jpg",
+        "age": "",
+        "gender": "",
+        "about": null,
+        "address": null,
+        "website": null,
+        "stories": [
+            {
+                "_id": "60004dadc0e5d434a96a2133",
+                "user": "60004707c0e5d434a96a212a",
+                "image": "1610632621313.jpg",
+                "original_name": "jewel3.jpg",
+                "updated_at": "2021-01-14T13:57:01.324Z",
+                "created_at": "2021-01-14T13:57:01.324Z",
+                "__v": 0
+            },
+            {
+                "_id": "600126f43fa0745cd328f027",
+                "user": "60004707c0e5d434a96a212a",
+                "image": "1610688244099.jpg",
+                "original_name": "1610688238001.jpg",
+                "updated_at": "2021-01-15T05:24:04.108Z",
+                "created_at": "2021-01-15T05:24:04.108Z",
+                "__v": 0
+            }
+        ],
+        "followers": [
+            {
+                "_id": "60067fe9e4ef57d7958d928c",
+                "user": "60067d71e4ef57d7958d9285",
+                "store": "60004707c0e5d434a96a212a",
+                "updated_at": "2021-01-19T06:44:57.617Z",
+                "created_at": "2021-01-19T06:44:57.617Z",
+                "__v": 0
+            }
+        ],
+        "bookmarks": [
+            {
+                "productimages": [
+                    "60005104e384f6525fc6365d",
+                    "60005104e384f6525fc6365c",
+                    "60005104e384f6525fc6365e",
+                    "60005104e384f6525fc6365f"
+                ],
+                "_id": "60005104e384f6525fc6365b",
+                "name": "Beautiful Golden Necklace",
+                "description": "Gold doesn't rust, tarnish or corrode, and it won't lose its colour over time. It's prized for its lasting beauty that improves with age. Gold is much more malleable than platinum, so it's easier to work into fine, intricate designs.",
+                "user": "60004707c0e5d434a96a212a",
+                "country": "5fcdf2d633edf646096d5427",
+                "state": "5fcdf2fa33edf646096d54c8",
+                "city": "5fcdf3fba208394d52e5eba9",
+                "category": "5fe07455993d2c595cb63f23",
+                "subcategory": "5fe9948ea4865cc42cc2c7e2",
+                "currency": "5fbe09ebd26921a448c57c81",
+                "price": "50000",
+                "updated_at": "2021-01-14T14:11:16.358Z",
+                "created_at": "2021-01-14T14:11:16.333Z",
+                "slug": "beautiful-golden-necklace",
+                "__v": 0
+            }
+        ],
+        "postcollections": [
+            "60004b91c0e5d434a96a2132",
+            "60005d9b3fa0745cd328f00a"
+        ],
+        "_id": "60004707c0e5d434a96a212a",
+        "name": "Chaganlal",
+        "email": "Chagan@gmail.com",
+        "mobile_number": "1234567890",
+        "password": "21691c25e4ce88862314244802b66df7dba74d689022274911968f2b5fb89b25",
+        "role": "Business",
+        "country": {
+            "states": [
+                "5fcdf2fa33edf646096d54b9",
+                "5fcdf2fa33edf646096d54bc",
+                "5fcdf2fa33edf646096d54bd",
+                "5fcdf2fa33edf646096d54ba",
+                "5fcdf2fa33edf646096d54be",
+                "5fcdf2fa33edf646096d54bb",
+                "5fcdf2fa33edf646096d54c0",
+                "5fcdf2fa33edf646096d54c1",
+                "5fcdf2fa33edf646096d54bf",
+                "5fcdf2fa33edf646096d54c2",
+                "5fcdf2fa33edf646096d54c3",
+                "5fcdf2fa33edf646096d54c4",
+                "5fcdf2fa33edf646096d54c5",
+                "5fcdf2fa33edf646096d54c6",
+                "5fcdf2fa33edf646096d54c7",
+                "5fcdf2fa33edf646096d54c8",
+                "5fcdf2fa33edf646096d54cb",
+                "5fcdf2fa33edf646096d54cc",
+                "5fcdf2fa33edf646096d54cd",
+                "5fcdf2fa33edf646096d54ce",
+                "5fcdf2fa33edf646096d54ca",
+                "5fcdf2fa33edf646096d54cf",
+                "5fcdf2fa33edf646096d54c9",
+                "5fcdf2fa33edf646096d54d0",
+                "5fcdf2fa33edf646096d54d1",
+                "5fcdf2fa33edf646096d54d2",
+                "5fcdf2fa33edf646096d54d3",
+                "5fcdf2fa33edf646096d54d4",
+                "5fcdf2fa33edf646096d54d5",
+                "5fcdf2fa33edf646096d54d6",
+                "5fcdf2fa33edf646096d54d7",
+                "5fcdf2fa33edf646096d54d8",
+                "5fcdf2fa33edf646096d54d9",
+                "5fcdf2fa33edf646096d54da",
+                "5fcdf2fa33edf646096d54db",
+                "5fcdf2fa33edf646096d54dc",
+                "5fcdf2fa33edf646096d54dd",
+                "5fcdf2fa33edf646096d54de",
+                "5fcdf2fa33edf646096d54df",
+                "5fcdf2fa33edf646096d54e0",
+                "5fcdf2fa33edf646096d54e1"
+            ],
+            "_id": "5fcdf2d633edf646096d5427",
+            "id": 101,
+            "short_name": "IN",
+            "name": "India",
+            "code": "91",
+            "updated_at": "2020-12-07T09:16:45.037Z",
+            "created_at": "2020-12-07T09:16:06.343Z",
+            "__v": 0
+        },
+        "state": {
+            "cities": [
+                "5fcdf34a33edf646096d676f",
+                "5fcdf34a33edf646096d6770",
+                "5fcdf3fba208394d52e5eba8",
+                "5fcdf3fba208394d52e5eba9"
+            ],
+            "_id": "5fcdf2fa33edf646096d54c8",
+            "id": 10,
+            "name": "Delhi",
+            "country": "5fcdf2d633edf646096d5427",
+            "countryid": 101,
+            "updated_at": "2020-12-07T09:21:16.879Z",
+            "created_at": "2020-12-07T09:16:42.184Z",
+            "__v": 0
+        },
+        "city": {
+            "_id": "5fcdf3fba208394d52e5eba9",
+            "name": "New Delhi",
+            "state": "5fcdf2fa33edf646096d54c8",
+            "updated_at": "2020-12-07T09:20:59.030Z",
+            "created_at": "2020-12-07T09:20:59.030Z",
+            "__v": 0
+        },
+        "signup_method": "Normal",
+        "account_verified": "Yes",
+        "updated_at": "2021-01-19T10:17:54.924Z",
+        "created_at": "2021-01-14T13:28:39.583Z",
+        "slug": "chaganlal",
+        "__v": 0,
+        "impression": 29,
+        "login_status": "online"
+    }
+}

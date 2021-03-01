@@ -1,0 +1,121 @@
+{
+    "success": true,
+    "data": [
+        {
+            "order": {
+                "id": 7,
+                "organization_id": 5,
+                "otp": 1180,
+                "customer_id": 2,
+                "billable_amount": 20,
+                "date": "2020-12-14",
+                "user_id": null,
+                "order_no": "ORD-7",
+                "orderstatus_id": 4,
+                "deliveryagent_id": 2,
+                "subscription_id": 8,
+                "is_deleted": "N",
+                "created_at": "2020-12-14T18:22:12.000000Z",
+                "updated_at": "2020-12-14T18:22:35.000000Z",
+                "deleted_at": null,
+                "orderstatus": {
+                    "id": 4,
+                    "name": "Shipment Created",
+                    "css_class_name": "text-success",
+                    "created_at": "2020-09-09T12:31:44.000000Z",
+                    "updated_at": "2020-09-11T13:42:28.000000Z",
+                    "deleted_at": null
+                }
+            },
+            "subscription": {
+                "id": 8,
+                "organization_id": 5,
+                "code": "1607950327",
+                "type": "Weekly",
+                "start_date": "2020-12-14",
+                "end_date": null,
+                "status": "Active",
+                "customer_id": 2,
+                "customeraddress_id": 2,
+                "created_at": "2020-12-14T18:22:07.000000Z",
+                "updated_at": "2020-12-14T18:22:07.000000Z",
+                "deleted_at": null,
+                "customer": {
+                    "id": 2,
+                    "first_name": "Archa",
+                    "last_name": "Jha",
+                    "mobile": "6396281331",
+                    "otp": "545959",
+                    "email": "jhaaarcha@gmail.com",
+                    "postalcode_id": null,
+                    "customer_code": "1607932445",
+                    "status": "Active",
+                    "salesagent_id": null,
+                    "wallet_balance": 1870,
+                    "is_deleted": "No",
+                    "created_at": "2020-12-14T07:54:05.000000Z",
+                    "updated_at": "2020-12-14T18:22:12.000000Z",
+                    "deleted_at": null
+                },
+                "customeraddress": {
+                    "id": 2,
+                    "customer_id": 2,
+                    "addressline1": "Block 68",
+                    "addressline2": "Street Number 707, Majarhati, Newtown, New Town, West Bengal 700135, India,North 24 Parganas",
+                    "postalcode_id": 6,
+                    "landmark": "college more",
+                    "latitude": "22.6304103",
+                    "longitude": "88.4707516",
+                    "is_default": "Yes",
+                    "created_at": "2020-12-14T09:13:59.000000Z",
+                    "updated_at": "2020-12-14T12:52:05.000000Z",
+                    "deleted_at": null
+                }
+            },
+            "productsubscription": {
+                "id": 8,
+                "subscription_id": 8,
+                "product_id": 1,
+                "productpricing_id": 1,
+                "quantity": 1,
+                "created_at": "2020-12-14T18:22:07.000000Z",
+                "updated_at": "2020-12-14T18:22:07.000000Z",
+                "deleted_at": null,
+                "product": {
+                    "id": 1,
+                    "productcategory_id": 1,
+                    "name": "SUDHA MILK",
+                    "measurementtype_id": 6,
+                    "photo": "1607932322.png",
+                    "price_per_unit": 20,
+                    "weight": "500",
+                    "vol": null,
+                    "gst_percent": "10",
+                    "hsn_code": "HSN12",
+                    "slug": "sudha-milk",
+                    "added_by_organization_id": 5,
+                    "sku": "SKU89",
+                    "is_approved": "Yes",
+                    "description": null,
+                    "created_at": "2020-12-14T13:22:02.000000Z",
+                    "updated_at": "2020-12-14T13:22:02.000000Z",
+                    "deleted_at": null
+                },
+                "productpricing": {
+                    "id": 1,
+                    "product_id": 1,
+                    "buying_qty": 1,
+                    "price": 20,
+                    "organization_id": 5,
+                    "organizationproduct_id": 1,
+                    "created_at": "2020-12-14T13:28:17.000000Z",
+                    "updated_at": "2020-12-14T13:28:17.000000Z",
+                    "deleted_at": null
+                }
+            }
+        }
+    ],
+    "total_orders": 7,
+    "pending_orders": 1,
+    "completed_orders": 6
+}
