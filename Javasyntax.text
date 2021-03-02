@@ -1,5 +1,6 @@
 
 //8A:01:9A:84:BF:D2:3F:07:00:38:89:82:D4:7A:EA:B9:73:BF:F8:9A
+//74:1E:52:8E:0A:24:ED:BD:0A:FC:B8:F4:E1:24:E4:DF:56:C5:EF:5E (new ubuntu)
 
 start - overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
 end   - overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
