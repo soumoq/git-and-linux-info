@@ -16,6 +16,8 @@ git remote add origin URL //to save to url
 git pull origin master //pull request to master
 rm -rf .git //remove git from project
 
+snap remove intellij-idea-community // uninstall intelij ide
+
 //Udemy
 git reset HEAD README.md // reset add or Backing out changes
 git checkout -- README.md // Clean working directory
