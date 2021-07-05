@@ -1,4 +1,5 @@
-//6F:C3:02:8F:F9:89:2E:F9:63:EA:70:BE:92:CE:4C:53:6D:D4:FB:71
+
+//8A:01:9A:84:BF:D2:3F:07:00:38:89:82:D4:7A:EA:B9:73:BF:F8:9A
 
 start - overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
 end   - overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
@@ -186,3 +187,36 @@ public class NewPostDialog extends AppCompatDialogFragment {
 private MyProgressDialog_white progressDialog;
 progressDialog = new MyProgressDialog_white(this);
 progressDialog.setCancelable(false);
+
+
+//Kotlin
+    id 'kotlin-android-extensions'
+
+//implement retrofit
+    fun getAudioBook(context: Context, audioBookId: String, offlineAudio: AudioBook? = null) {
+        if (ImpFun.isConnected()) {
+            val progressDialog = ProgressDialog(context)
+            progressDialog.setCancelable(false)
+            progressDialog.show()
+            val response: Call<AudioBook> =
+                restApiService.getAudioBook(ImpFun.audioBookApiToken, audioBookId)
+            response.enqueue(object : Callback<AudioBook> {
+                override fun onResponse(call: Call<AudioBook>, response: Response<AudioBook>) {
+                    progressDialog.dismiss()
+                    if (response.isSuccessful) {
+                        audioBook.value = response.body()
+                    } else {
+                        context.toast("Something went wrong!")
+                    }
+                }
+
+                override fun onFailure(call: Call<AudioBook>, t: Throwable) {
+                    progressDialog.dismiss()
+                    Log.e("LogTag", "onFailure: ")
+                    context.toast("Something went wrong!!")
+                }
+            })
+        } else {
+            audioBook.value = offlineAudio
+        }
+    }
